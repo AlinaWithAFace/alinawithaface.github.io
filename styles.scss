@@ -209,6 +209,9 @@ ul {
 }
 
 .hero-headshot {
+  max-height: 200px;
+  width: 200px;
+  display: block;
   border-radius: 100%;
   border: 3px solid $bg-highlight-color;
   margin-right: 1rem;
