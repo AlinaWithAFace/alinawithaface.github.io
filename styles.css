@@ -1,0 +1,194 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(top, #50D3CF 6%, #005632 100%);
+    background: -webkit-linear-gradient(top, #50D3CF 6%, #005632 100%);
+    background: -moz-linear-gradient(top, #50D3CF 6%, #005632 100%);
+    background: -o-linear-gradient(top, #50D3CF 6%, #005632 100%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-weight: 100;
+    -webkit-font-smoothing: antialiased;
+}
+
+.hero {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.hero h1 {
+    font-size: 50px;
+    margin-top: 0;
+}
+.hero h3 {
+    margin-bottom: 0;
+}
+.hero span {
+    display: inline-block;
+    text-align: left;
+    font-size: 26px;
+}
+.hero a {
+    color: white;
+    margin: 20px;
+}
+.hero i {
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.hero .hero-actions {
+    position: relative;
+    margin-top: 20px;
+}
+
+span.cursor {
+    font-size: 35px;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 34px;
+    }
+    .hero h3 {
+        font-size: 28px;
+    }
+    .hero span {
+        font-size: 22px;
+    }
+    .hero .hero-actions {
+        text-align: center;
+    }
+    .hero .hero-actions i {
+        font-size: 22px;
+    }
+    .hero .hero-actions a {
+        margin: 5px;
+    }
+}
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-webkit-keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-moz-keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1% 0 1% 0;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+.fa, .fa-linkedin, .fa-twitter, .fa-github, .fa-medium, .fa-envelope, .fa-file-text {
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+
+.fa-github:hover {
+    background-color: #6cc644;
+}
+
+.fa-medium:hover {
+    background-color: #00ab6c;
+}
+
+.fa-envelope:hover {
+    background-color: #dd4b39;
+}
+
+.fa-file-text:hover {
+    background-color: #dddb46;
+}
+
+.hero {
+    background: url("https://webdev.acm.jhu.edu/assets/laptop.png") center bottom no-repeat;
+    padding-bottom: 190px;
+}
+
+.hero-group, .hero-actions {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-headshot {
+    max-height: 200px;
+    width: 200px;
+    display: block;
+    border-radius: 100%;
+    border: 3px solid white;
+    margin-right: 1rem;
+}
+
+.hero-text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hero-heading {
+    color: white;
+    font: normal 2rem/3rem 'Gobold Bold', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+}
+
+.hero-subheading {
+    color: white;
+    font: normal 1.5rem/2rem 'Montserrat', sans-serif;
+}
+.hero-subheading em {
+    color: white;
+}
