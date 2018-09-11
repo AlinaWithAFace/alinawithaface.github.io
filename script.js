@@ -1,4 +1,4 @@
-$(function () {
+function main () {
   let message = {
 
     message: [
@@ -47,4 +47,6 @@ $(function () {
     },
   }
   message.init()
-})
+}
+
+main();
