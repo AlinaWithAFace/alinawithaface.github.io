@@ -17,7 +17,7 @@ function main () {
     },
 
     cacheElem: function () {
-      this.$text = $('.text')
+      this.$text = main('.text')
     },
 
     type: function () {
@@ -49,4 +49,3 @@ function main () {
   message.init()
 }
 
-main();
