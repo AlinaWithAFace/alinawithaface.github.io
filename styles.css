@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Muli);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 html {
   height: 100%; }
@@ -10,7 +10,7 @@ body {
   background: -o-linear-gradient(top, #50D3CF 6%, #005632 100%);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Muli", sans-serif;
   color: white;
   font-weight: 100;
   -webkit-font-smoothing: antialiased; }
@@ -136,13 +136,12 @@ ul {
 
 .hero-heading {
   color: white;
-  font: normal 2rem/3rem 'Gobold Bold', sans-serif;
-  text-transform: uppercase;
+  font: normal 2rem/3rem "Muli", sans-serif;
   letter-spacing: 0.15rem; }
 
 .hero-subheading {
   color: white;
-  font: normal 1.5rem/2rem 'Montserrat', sans-serif; }
+  font: normal 1.5rem/2rem "Muli", sans-serif; }
   .hero-subheading em {
     color: white; }
 

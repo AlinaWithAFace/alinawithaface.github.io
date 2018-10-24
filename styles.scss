@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Muli);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
 $text-color: white;
@@ -21,6 +21,10 @@ $twitter-color: #00aced;
 $github-color: #6cc644;
 $medium-color: #00ab6c;
 
+$title-fonts: 'Muli', sans-serif;
+$subtitle-fonts: 'Muli', sans-serif;
+$body-fonts: 'Muli', sans-serif;
+
 html {
   height: 100%;
 }
@@ -32,7 +36,7 @@ body {
   background: -o-linear-gradient(top, $gradient-color-a 6%, $gradient-color-b 100%);
   background-attachment: fixed;
   background-repeat: no-repeat;
-  font-family: 'Montserrat', sans-serif;
+  font-family: $body-fonts;
   color: $text-color;
   font-weight: 100;
   -webkit-font-smoothing: antialiased;
@@ -225,14 +229,14 @@ ul {
 
 .hero-heading {
   color: $bg-highlight-color;
-  font: normal 2rem/3rem 'Gobold Bold', sans-serif;
-  text-transform: uppercase;
+  font: normal 2rem/3rem $title-fonts;
+  //text-transform: uppercase;
   letter-spacing: 0.15rem;
 }
 
 .hero-subheading {
   color: $highlight-color;
-  font: normal 1.5rem/2rem 'Montserrat', sans-serif;
+  font: normal 1.5rem/2rem $subtitle-fonts;
 
   em {
     color: white;

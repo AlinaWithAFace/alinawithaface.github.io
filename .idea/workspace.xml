@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,7 +37,7 @@
           <entry key="html" value="1" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
-          <entry key="scss" value="1" />
+          <entry key="scss" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -44,24 +46,24 @@
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="SCSS" value="1" />
+          <entry key="SCSS" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="51" />
+          <entry key="html" value="65" />
           <entry key="js" value="39" />
-          <entry key="scss" value="5" />
-          <entry key="txt" value="209" />
+          <entry key="scss" value="164" />
+          <entry key="txt" value="238" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="51" />
+          <entry key="HTML" value="65" />
           <entry key="JavaScript" value="39" />
-          <entry key="PLAIN_TEXT" value="209" />
-          <entry key="SCSS" value="5" />
+          <entry key="PLAIN_TEXT" value="238" />
+          <entry key="SCSS" value="164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -69,20 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2176">
-              <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="946">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
             </state>
           </provider>
         </entry>
@@ -99,8 +92,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="119">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/styles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -110,6 +112,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>oswald</find>
+      <find>font</find>
+      <find>hero</find>
+      <find>text-transform</find>
+      <find>title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -216,7 +222,7 @@
       <workItem from="1537499633599" duration="736000" />
       <workItem from="1537552928168" duration="11000" />
       <workItem from="1538604130234" duration="623000" />
-      <workItem from="1540336955366" duration="543000" />
+      <workItem from="1540336955366" duration="2716000" />
     </task>
     <task id="LOCAL-00001" summary="updated resume, script edits">
       <created>1536674133306</created>
@@ -267,29 +273,37 @@
       <option name="project" value="LOCAL" />
       <updated>1540337275080</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated styles, fixed watcher">
+      <created>1540337584831</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540337584831</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7565000" />
+    <option name="totallyTimeSpent" value="9738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15707515" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49793103" weight="0.5329341" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49424508" weight="0.29809976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.6824645" visible="true" weight="0.18171021" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.31753555" side_tool="true" visible="true" weight="0.18171021" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6824645" weight="0.18171021" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5057549" side_tool="true" visible="true" weight="0.29809976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -309,7 +323,8 @@
     <MESSAGE value="updated headshot reference" />
     <MESSAGE value="updated resume reference" />
     <MESSAGE value="updated title&#10;&#10;i made it myself" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated title&#10;&#10;i made it myself" />
+    <MESSAGE value="updated styles, fixed watcher" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated styles, fixed watcher" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/headshot.jpg">
@@ -322,24 +337,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="946">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2176">
-          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
