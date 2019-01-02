@@ -27,3 +27,4 @@ Press:
 
 Personal:
 * [Twiter](https://twitter.com/AlinaWithAFace)
+* [Spotify](https://open.spotify.com/user/12144301021)
