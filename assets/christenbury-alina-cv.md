@@ -1,3 +1,7 @@
+# Alina Christenbury
+
+### alinac at udel dot edu
+
 Invited talks:
 * [TEDx Goldey Beacom College Salon](https://www.ted.com/tedx/events/32155). 30 January 2019.
 
@@ -26,5 +30,5 @@ Press:
 * [Seeing the World Through a Different Lens](https://www.udel.edu/udaily/2018/august/alina-christenbury-virtual-reality-summer-research/). UDaily. Interviewed by Tracey Bryant. 31 August 2018.
 
 Personal:
-* [Twiter](https://twitter.com/AlinaWithAFace)
+* Twiter: [@AlinaWiAFace](https://twitter.com/AlinaWithAFace)
 * [Spotify](https://open.spotify.com/user/12144301021)
