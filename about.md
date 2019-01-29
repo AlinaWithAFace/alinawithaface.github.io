@@ -1,6 +1,18 @@
-# Alina Christenbury
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-### Mixed Realtiy Researcher
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Alina Christenbury is a senior studying computer science at the University of Delaware who is interested in Human-computer interaction, game development, and virtual/augmented reality.
-Her love for virtual worlds at an early age has transformed into a passion for building a real world powered by augmented superpowers and immersive experiences. She received the Science and Engineering Summer Scholars Award in 2018, and is currently leading a team of undergraduates in creating interactive experiences.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
