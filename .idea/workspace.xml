@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-28-reality-virtually.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bio.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/alinawithaface.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alinawithaface.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-28-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/2019-01-28-welcome-to-jekyll.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/christenbury-alina-cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-29-christenbury-alina-cv.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,44 +25,44 @@
     <session id="-1576214555">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="CNAME" value="1" />
-          <entry key="Gemfile" value="2" />
-          <entry key="css" value="2" />
+          <entry key="CNAME" value="2" />
+          <entry key="Gemfile" value="3" />
+          <entry key="css" value="3" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="2" />
-          <entry key="jpg" value="1" />
-          <entry key="js" value="1" />
-          <entry key="lock" value="1" />
-          <entry key="markdown" value="2" />
-          <entry key="md" value="3" />
-          <entry key="scss" value="3" />
+          <entry key="html" value="5" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="2" />
+          <entry key="lock" value="2" />
+          <entry key="markdown" value="3" />
+          <entry key="md" value="6" />
+          <entry key="scss" value="7" />
           <entry key="txt" value="1" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="2" />
-          <entry key="Image" value="1" />
-          <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="SCSS" value="3" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="2" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="9" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="SCSS" value="7" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -75,109 +72,44 @@
           <entry key="html" value="66" />
           <entry key="js" value="39" />
           <entry key="markdown" value="30" />
-          <entry key="md" value="143" />
-          <entry key="scss" value="164" />
-          <entry key="txt" value="381" />
-          <entry key="yml" value="74" />
+          <entry key="md" value="193" />
+          <entry key="scss" value="220" />
+          <entry key="txt" value="399" />
+          <entry key="yml" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="66" />
           <entry key="JavaScript" value="39" />
-          <entry key="Markdown" value="173" />
-          <entry key="PLAIN_TEXT" value="381" />
-          <entry key="SCSS" value="164" />
-          <entry key="YAML" value="74" />
+          <entry key="Markdown" value="223" />
+          <entry key="PLAIN_TEXT" value="399" />
+          <entry key="SCSS" value="220" />
+          <entry key="YAML" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-758" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2019-01-28-welcome-to-jekyll.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-reality-virtually.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+            <state relative-caret-position="348">
+              <caret line="245" column="3" lean-forward="true" selection-start-line="245" selection-start-column="3" selection-end-line="245" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -205,9 +137,14 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2019-01-28-reality-virtually.markdown" />
         <option value="$PROJECT_DIR$/about.md" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/bio.md" />
+        <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-29-christenbury-alina-cv.md" />
+        <option value="$PROJECT_DIR$/_sass/styles.scss" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_sass/_shame.scss" />
+        <option value="$PROJECT_DIR$/assets/css/main.scss" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -219,7 +156,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="1522" />
+    <option name="width" value="1392" />
     <option name="height" value="1932" />
   </component>
   <component name="ProjectView">
@@ -227,7 +164,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,31 +184,35 @@
             <path>
               <item name="alinawithaface.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="alinawithaface.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alinawithaface.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="alinawithaface.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Ruby24-x64/bin/scss" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
       <recent name="C:\Users\alina\Git\alinawithaface.github.io\_drafts" />
       <recent name="C:\Users\alina\Git\alinawithaface.github.io\_sass" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,16 +226,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/alinawithaface.github.io/index.html">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -320,7 +250,9 @@
       <workItem from="1540336955366" duration="3550000" />
       <workItem from="1544597777417" duration="1148000" />
       <workItem from="1547687941886" duration="683000" />
-      <workItem from="1548730664107" duration="4036000" />
+      <workItem from="1548730664107" duration="4293000" />
+      <workItem from="1548737681660" duration="2021000" />
+      <workItem from="1548739769034" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="updated resume, script edits">
       <created>1536674133306</created>
@@ -406,30 +338,37 @@
       <option name="project" value="LOCAL" />
       <updated>1548734704931</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="much edit such wow">
+      <created>1548737630275</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548737630275</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16439000" />
+    <option name="totallyTimeSpent" value="18960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20176032" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21597834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897863" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49356803" weight="0.22684085" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32814372" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49356803" weight="0.22634731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6797563" visible="true" weight="0.25534442" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.6797563" visible="true" weight="0.35629454" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.32024375" side_tool="true" weight="0.3005988" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32897863" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,28 +393,13 @@
     <MESSAGE value="added recent uni transcript, an attempt at a markdown page" />
     <MESSAGE value="added gitignore" />
     <MESSAGE value="installed jekyll locally for realsies" />
-    <option name="LAST_COMMIT_MESSAGE" value="installed jekyll locally for realsies" />
+    <MESSAGE value="much edit such wow" />
+    <option name="LAST_COMMIT_MESSAGE" value="much edit such wow" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/headshot.jpg" />
     <entry file="file://$PROJECT_DIR$/constants.txt" />
-    <entry file="file://$PROJECT_DIR$/_sass/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -483,6 +407,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/script.js" />
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -490,26 +415,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+    <entry file="file://$PROJECT_DIR$/_sass/styles.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/_shame.scss" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_shame.scss" />
+    <entry file="file://$PROJECT_DIR$/CNAME" />
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html" />
+    <entry file="file://$PROJECT_DIR$/bio.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-758" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-29-christenbury-alina-cv.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1178">
+            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-reality-virtually.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <first_editor relative-caret-position="12">
+            <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
@@ -525,41 +474,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bio.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="323">
-            <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/assets/christenbury-alina-headshot.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="348">
+          <caret line="245" column="3" lean-forward="true" selection-start-line="245" selection-start-column="3" selection-end-line="245" selection-end-column="3" />
         </state>
       </provider>
     </entry>
