@@ -28,40 +28,44 @@ Designed axeng.com and johnsitaliandeli.com
 
 ## Experience
 
-### VIP:VR Project Manager	September 2018 — Present
-University of Delaware	Newark, DE
-Project goals include exploring the applications of virtual reality in commercial and educational projects
+##### VIP:VR Project Manager
+###### September 2018 — Present
+###### University of Delaware. Newark, DE  
+Project goals include exploring the applications of virtual reality in commercial and educational projects  
 Led a team of undergraduates in designing and creating a cooperative virtual reality gameplay experience
 
-### Virtual Reality Summer Scholar	June 2018 — August 2018
-University of Delaware	Newark, DE
-Conducted research with university faculty centered around virtual reality and augmented reality in order to prepare for an undergraduate research project
-Experimented with gesture-based gameplay and interaction in virtual environments using a Leap Motion hand tracking module
-Constructed an augmented reality headset prototype using 3D printed and machined parts
+### Virtual Reality Summer Scholar
+###### June 2018 — August 2018
+###### University of Delaware. Newark, DE  
+Conducted research with university faculty centered around virtual reality and augmented reality in order to prepare for an undergraduate research project  
+Experimented with gesture-based gameplay and interaction in virtual environments using a Leap Motion hand tracking module  
+Constructed an augmented reality headset prototype using 3D printed and machined parts  
 
-### Front End Developer	January 2018 — February 2018
-Golden Egg Labs	Newark, DE
-Led re-styling and refactoring of a web app user interface
-Introduced SASS and other frameworks to a CSS-based product line enabling variable styling for multiple clients
+### Front End Developer
+###### January 2018 — February 2018
+###### Golden Egg Labs. Newark, DE
+Led re-styling and refactoring of a web app user interface  
+Introduced SASS and other frameworks to a CSS-based product line enabling variable styling for multiple clients  
 
-### Game Development Intern	May 2017 — August 2017
-University of Delaware	Newark, DE
+### Game Development Intern
+###### May 2017 — August 2017
+###### University of Delaware. Newark, DE
 Collaborated on a team to develop an educational game aimed at 9-10 year old children to be installed in the Delaware Department of Natural Resource and Environmental Control lobby
 
-### Game Design Intern	February 2017 — May 2017
-SmartyPal	Philadelphia, PA
-Prototyped various minigames built in Unity based on learning and education
-Researched and drafted reports on competition in the target market
-Collected feedback and user testing results on applications
-Assisted in creating promotional materials, such as videos and presentations
+### Game Design Intern
+###### February 2017 — May 2017
+###### SmartyPal. Philadelphia, PA
+Prototyped various minigames built in Unity based on learning and education  
+Researched and drafted reports on competition in the target market  
+Collected feedback and user testing results on applications  
+Assisted in creating promotional materials, such as videos and presentations  
 
 
 ### Tools
 IntelliJ IDEA, Unity, Git, CLion, Sourcetree, Webstorm, Final Cut Pro 10, Adobe After Effects
 
 #### Languages & Frameworks
-C#, Java, C/C++, Javascript, HTML, CSS, SCSS, React, Python, LaTeX
-
+C# (Proficient), Java (Proficient), C/C++ (Intermediate), Javascript (Beginner), HTML (Intermediate), CSS (Intermediate), SCSS (Intermediate), React (Intermediate), Python (Beginner), LaTeX (Beginner)
 
 #### Invited talks
 * [TEDx Goldey Beacom College Salon](https://www.ted.com/tedx/events/32155). 30 January 2019.
