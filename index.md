@@ -4,4 +4,3 @@ title: home
 permalink: /
 ---
 
-Hello World
