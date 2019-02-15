@@ -7,3 +7,6 @@ twitter_username: AlinaWithAFace
 github_username:  AlinaWithAFace
 
 logo: /assets/img/christenbury-alina-headshot.jpg
+
+# Build settings
+markdown: kramdown
