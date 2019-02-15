@@ -29,7 +29,7 @@ Since then, the eight-hour day has become the standard. Full time workers who re
 
 We live in an era not of obvious ends in which we can see the thing that has been done and the thing which has yet to be done, but an era of “thought work”. Theoretically, almost anything you do work on, you could continue working on forever and it still could be improved upon. In his book “Getting Things Done: The Art of Stress-Free Productivity,” David Allen explores the lack of concrete boundaries in thought work:
 
-*How good could that conference potentially be?… How inspiring is the essay you’re writing? How motivating the staff meeting? How functional the reorganization? How much available data could be relevant to doing those projects “better”? The answer is an infinite amount… (5)*
+> How good could that conference potentially be?… How inspiring is the essay you’re writing? How motivating the staff meeting? How functional the reorganization? How much available data could be relevant to doing those projects “better”? The answer is an infinite amount… (5)
 
 ---
 
