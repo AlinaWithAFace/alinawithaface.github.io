@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bio
-permalink: /bio/
+title: about
+permalink: /about/
 ---
 
 ![alina!](assets/christenbury-alina-headshot.jpg)
