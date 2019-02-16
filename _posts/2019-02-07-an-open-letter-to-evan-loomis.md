@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An Open Letter to Evan Loomis"
-date:   2019-02-15
+date:   2019-02-07
 ---
 
 *I hand-wrote and mailed the following to Evan Loomis, a co-founder at the housing nonprofit [ICON](https://www.iconbuild.com/) after seeing [his open letter to Elon Musk](https://www.linkedin.com/pulse/open-letter-elon-musk-evan-loomis/?trackingId=bHSlyClPokiiKnkOje0S%2Bg%3D%3D). Similarly, I have no idea if he received it. I took the prompt at the end of his forward seriously, because I think his work is important even if it’s not as flashy as rocket science. I hope it makes you think and/or feel something. - Alina*
