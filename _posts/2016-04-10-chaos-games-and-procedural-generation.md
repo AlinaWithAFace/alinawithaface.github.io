@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Chaos Games and Procedural Generation"
+date:   2016-04-10
+---
+
 I feel like chaos/chaos theory has a very interesting way of generating images and/or graphics, particularly fractals. You can get extremely detailed and infinite graphics with different initial conditions.
 
 One of the ones Dr. Passmore covered in his colloquium last Monday was the Sierpinski triangle, generated with a 3 point ‘chaos game’. You begin with 3 initial points, about where the tips of the triangle would be, and then start at any point within those boundaries. Then you roll a die or use some other random method of choosing one of the initial coordinates, and travel half the distance between your starting point and the initial point chosen. At the end of the day, i.e., after doing this for several hours, you can somewhat reliably generate the Sierpinski triangle.

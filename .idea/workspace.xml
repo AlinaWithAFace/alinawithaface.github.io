@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_drafts/2019-02-16-tedx-goldey-beacom.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-15-an-open-letter-to-evan-loomis.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-07-an-open-letter-to-evan-loomis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2016-04-10-chaos-game-and-procedural-generation.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +43,7 @@
           <entry key="js" value="3" />
           <entry key="lock" value="3" />
           <entry key="markdown" value="22" />
-          <entry key="md" value="40" />
+          <entry key="md" value="42" />
           <entry key="scss" value="44" />
           <entry key="tex" value="3" />
           <entry key="txt" value="1" />
@@ -60,7 +57,7 @@
           <entry key="HTML" value="67" />
           <entry key="Image" value="6" />
           <entry key="JavaScript" value="3" />
-          <entry key="Markdown" value="62" />
+          <entry key="Markdown" value="64" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="SCSS" value="44" />
           <entry key="XML" value="2" />
@@ -73,10 +70,10 @@
           <entry key="html" value="218" />
           <entry key="js" value="40" />
           <entry key="markdown" value="30" />
-          <entry key="md" value="2050" />
+          <entry key="md" value="2219" />
           <entry key="scss" value="266" />
           <entry key="tex" value="1" />
-          <entry key="txt" value="798" />
+          <entry key="txt" value="812" />
           <entry key="yml" value="313" />
         </counts>
       </usages-collector>
@@ -85,8 +82,8 @@
           <entry key="HTML" value="218" />
           <entry key="JavaScript" value="40" />
           <entry key="LaTeX source file" value="1" />
-          <entry key="Markdown" value="2080" />
-          <entry key="PLAIN_TEXT" value="798" />
+          <entry key="Markdown" value="2249" />
+          <entry key="PLAIN_TEXT" value="812" />
           <entry key="SCSS" value="266" />
           <entry key="YAML" value="313" />
         </counts>
@@ -95,41 +92,61 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2019-02-16-tedx-goldey-beacom.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-04-18-the-fourty-hour-work-week.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="4" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_posts/2016-04-10-chaos-game-and-procedural-generation.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="130">
+                    <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="542">
+                  <caret line="33" column="72" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="72" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_posts/2016-04-18-the-fourty-hour-work-week.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="187">
+                    <caret line="11" selection-start-line="11" selection-end-line="11" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_posts/2016-04-18-the-fourty-hour-work-week.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="680">
+                    <caret line="40" selection-start-line="40" selection-end-line="40" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -209,6 +226,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-02-07-an-open-letter-to-evan-loomis.md" />
         <option value="$PROJECT_DIR$/_drafts/2019-02-16-tedx-goldey-beacom.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_posts/2016-04-10-chaos-game-and-procedural-generation.md" />
       </list>
     </option>
   </component>
@@ -243,12 +261,18 @@
             <path>
               <item name="alinawithaface.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="alinawithaface.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alinawithaface.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="alinawithaface.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alinawithaface.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alinawithaface.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,13 +476,6 @@
       <workItem from="1549049213339" duration="716000" />
       <workItem from="1549211776421" duration="880000" />
       <workItem from="1549231200357" duration="2847000" />
-    </task>
-    <task id="LOCAL-00002" summary="recompiled styles, script edits">
-      <created>1536676712202</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1536676712202</updated>
     </task>
     <task id="LOCAL-00003" summary="updated subtitle because the one neat feature was broken">
       <created>1537499738751</created>
@@ -796,7 +813,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550329449520</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="drafts, hurray">
+      <created>1550330187289</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1550330187289</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -846,7 +870,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed font" />
     <MESSAGE value="added recent uni transcript, an attempt at a markdown page" />
     <MESSAGE value="added gitignore" />
     <MESSAGE value="installed jekyll locally for realsies" />
@@ -871,10 +894,10 @@
     <MESSAGE value="landing" />
     <MESSAGE value="unlanding" />
     <MESSAGE value="we're live, ish, again" />
-    <option name="LAST_COMMIT_MESSAGE" value="we're live, ish, again" />
+    <MESSAGE value="drafts, hurray" />
+    <option name="LAST_COMMIT_MESSAGE" value="drafts, hurray" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2016-07-21-welcome-to-jekyll - Copy.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2016-07-20-welcome-to-jekyll - Copy.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2016-07-19-welcome-to-jekyll - Copy.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-09-welcome-to-jekyll.markdown" />
@@ -1068,13 +1091,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-18-the-fourty-hour-work-week.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="33" column="72" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -1088,10 +1108,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="72" />
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-18-the-fourty-hour-work-week.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="187">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-10-chaos-game-and-procedural-generation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="130">
+            <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
