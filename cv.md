@@ -9,10 +9,14 @@ XR Researcher.
 
 <div id="webaddress">
 302.648.2117
-| <a href="alinac@udel.edu">alinac@udel.edu</a>
-| <a href="http://alinac.me">alinac.me</a>
+|
+<a href="alinac@udel.edu">alinac@udel.edu</a>
+|
+<a href="http://alinac.me">alinac.me</a>
 </div>
 
+## Research Interests
+Games, collaborative experiences, XR, human-computer interaction, machine learning applications, generative art, procedural generation
 
 ## Education
 

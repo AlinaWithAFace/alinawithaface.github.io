@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/config.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/first-post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/home.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/jekyll-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/jekyll-now-theme-screenshot.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/step1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/davewhipp-print.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/davewhipp-print.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/davewhipp-screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/davewhipp-screen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/kjhealy-print.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/kjhealy-print.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/kjhealy-screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/kjhealy-screen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/portfolio.md" afterDir="false" />
-    </list>
+    <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -30,7 +15,7 @@
     <session id="-1576214555">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
@@ -91,7 +76,7 @@
           <entry key="md" value="2266" />
           <entry key="scss" value="266" />
           <entry key="tex" value="1" />
-          <entry key="txt" value="863" />
+          <entry key="txt" value="884" />
           <entry key="yml" value="313" />
         </counts>
       </usages-collector>
@@ -101,7 +86,7 @@
           <entry key="JavaScript" value="40" />
           <entry key="LaTeX source file" value="1" />
           <entry key="Markdown" value="2296" />
-          <entry key="PLAIN_TEXT" value="863" />
+          <entry key="PLAIN_TEXT" value="884" />
           <entry key="SCSS" value="266" />
           <entry key="YAML" value="313" />
         </counts>
@@ -485,13 +470,6 @@
       <workItem from="1549211776421" duration="880000" />
       <workItem from="1549231200357" duration="2847000" />
     </task>
-    <task id="LOCAL-00005" summary="updated headshot reference">
-      <created>1540337032462</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1540337032462</updated>
-    </task>
     <task id="LOCAL-00006" summary="updated resume reference">
       <created>1540337157990</created>
       <option name="number" value="00006" />
@@ -828,7 +806,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550330975876</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="culled the weak">
+      <created>1550331951323</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1550331951323</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -877,7 +862,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="installed jekyll locally for realsies" />
     <MESSAGE value="much edit such wow" />
     <MESSAGE value="shuffled things" />
     <MESSAGE value="cv changes" />
@@ -902,7 +886,8 @@
     <MESSAGE value="drafts, hurray" />
     <MESSAGE value="added an article from a million years ago" />
     <MESSAGE value="typos my b" />
-    <option name="LAST_COMMIT_MESSAGE" value="typos my b" />
+    <MESSAGE value="culled the weak" />
+    <option name="LAST_COMMIT_MESSAGE" value="culled the weak" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_sass/_site.scss" />
