@@ -16,7 +16,7 @@ XR Researcher.
 </div>
 
 ## Research Interests
-Games, collaborative experiences, XR, human-computer interaction, machine learning applications, generative art, procedural generation
+Games, collaborative experiences, XR technology, human-computer interaction, machine learning applications in games, generative art, procedural generation, human computer Interaction
 
 ## Education
 
