@@ -8,6 +8,6 @@ I'm particularly a fan of games that change along with real-time clocks. Animal 
 
 So, to compensate slash because I wanted to, I wrote a small python script that simply changes your desktop wallpaper to a thematically similar one every month. Feel free to download it [here](https://github.com/AlinaWithAFace/seasonal-desktop-wallpapers). The images were ~~stolen~~ borrowed from google calendar because I'm not an illustrator (yet?).
 
-Anyway you can either run it once a month manually, or throw a shortcut into a place to automate it.
+Anyway you can either run it once a month manually, or throw a shortcut into a place to automate it ala the readme.
 
 Have fun!
