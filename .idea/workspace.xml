@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="">
+    <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="added preview gif">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-05-seasonal-desktop-app.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-05-seasonal-desktop-app.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +20,7 @@
     <session id="-1576214555">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
@@ -33,8 +32,8 @@
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="6" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,7 +50,7 @@
           <entry key="js" value="3" />
           <entry key="lock" value="3" />
           <entry key="markdown" value="22" />
-          <entry key="md" value="58" />
+          <entry key="md" value="59" />
           <entry key="png" value="5" />
           <entry key="py" value="1" />
           <entry key="scss" value="46" />
@@ -68,7 +67,7 @@
           <entry key="HTML" value="67" />
           <entry key="Image" value="20" />
           <entry key="JavaScript" value="3" />
-          <entry key="Markdown" value="80" />
+          <entry key="Markdown" value="81" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="SCSS" value="46" />
           <entry key="SVG" value="1" />
@@ -83,11 +82,11 @@
           <entry key="html" value="218" />
           <entry key="js" value="40" />
           <entry key="markdown" value="30" />
-          <entry key="md" value="4980" />
+          <entry key="md" value="4999" />
           <entry key="py" value="372" />
           <entry key="scss" value="266" />
           <entry key="tex" value="1" />
-          <entry key="txt" value="992" />
+          <entry key="txt" value="1015" />
           <entry key="yml" value="313" />
         </counts>
       </usages-collector>
@@ -96,8 +95,8 @@
           <entry key="HTML" value="218" />
           <entry key="JavaScript" value="40" />
           <entry key="LaTeX source file" value="1" />
-          <entry key="Markdown" value="5010" />
-          <entry key="PLAIN_TEXT" value="992" />
+          <entry key="Markdown" value="5029" />
+          <entry key="PLAIN_TEXT" value="1015" />
           <entry key="SCSS" value="266" />
           <entry key="Scratch" value="372" />
           <entry key="YAML" value="313" />
@@ -107,13 +106,25 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-seasonal-desktop-app.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="115" selection-start-line="10" selection-start-column="115" selection-end-line="10" selection-end-column="115" />
+              <first_editor relative-caret-position="238">
+                <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-04-10-chaos-games-and-procedural-generation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="527">
+                <caret line="31" selection-start-line="31" selection-end-line="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -224,7 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,6 +266,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,20 +386,6 @@
       <workItem from="1549049213339" duration="716000" />
       <workItem from="1549211776421" duration="880000" />
       <workItem from="1549231200357" duration="2847000" />
-    </task>
-    <task id="LOCAL-00009" summary="changed font">
-      <created>1540339705093</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1540339705093</updated>
-    </task>
-    <task id="LOCAL-00010" summary="added recent uni transcript, an attempt at a markdown page">
-      <created>1544598148663</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1544598148663</updated>
     </task>
     <task id="LOCAL-00011" summary="added gitignore">
       <created>1548734514042</created>
@@ -719,7 +716,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551832896979</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="words">
+      <created>1551833026721</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1551833026721</updated>
+    </task>
+    <task id="LOCAL-00059" summary="added preview gif">
+      <created>1551833798280</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1551833798280</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -736,9 +747,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37938145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23573883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -769,8 +779,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added CV tex source" />
-    <MESSAGE value="removed an old thing" />
     <MESSAGE value="moved more different things" />
     <MESSAGE value="configy-bits" />
     <MESSAGE value="shuffled files and maybe added my face" />
@@ -794,7 +802,9 @@
     <MESSAGE value="added a million drafts i'll flesh out maybe 10% of" />
     <MESSAGE value="published a smol boi" />
     <MESSAGE value="spaaaaaaaaaaaace" />
-    <option name="LAST_COMMIT_MESSAGE" value="spaaaaaaaaaaaace" />
+    <MESSAGE value="words" />
+    <MESSAGE value="added preview gif" />
+    <option name="LAST_COMMIT_MESSAGE" value="added preview gif" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
@@ -830,15 +840,15 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -964,16 +974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-10-chaos-games-and-procedural-generation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/headshot.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1048,17 +1048,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="306">
             <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1086,8 +1086,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-05-seasonal-desktop-app.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="115" selection-start-line="10" selection-start-column="115" selection-end-line="10" selection-end-column="115" />
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-10-chaos-games-and-procedural-generation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="527">
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
         </state>
