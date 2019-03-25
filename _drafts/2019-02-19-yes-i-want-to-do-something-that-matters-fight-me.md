@@ -7,3 +7,7 @@ What?
 WHAT?
 
 You're not allowed to be surprised about this.
+
+oh and don't let me forget to mention how *fucking loud we are about things that matter* see: climate change is the big one right now but you know there's also other things probably
+
+dammit i didn't want to go into politics when i grew up but if you can't get your shit together i'll run in 10 years and actually do shit i swear to god

@@ -32,13 +32,10 @@ __Computer Science B.S.__ University of Delaware, Newark, DE. 3.28/4.0.
 Dean's List
 
 `Spring 2018`
-Dean's List
 
 `Spring 2016`
-Dean's List
 
 `Fall 2015`
-Dean's List
 
 ## Experience
 
