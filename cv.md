@@ -33,9 +33,12 @@ Dean's List
 
 `Spring 2018`
 
+
 `Spring 2016`
 
+
 `Fall 2015`
+  
 
 ## Experience
 
@@ -164,5 +167,6 @@ __Freelance Web Developer__
 
 ## Personal
 
-[@AlinaWithAFace](https://twitter.com/AlinaWithAFace)
+Twitter: [@AlinaWithAFace](https://twitter.com/AlinaWithAFace)
 [Spotify](https://open.spotify.com/user/12144301021)
+Discord: AlinaWithAFace#7518
