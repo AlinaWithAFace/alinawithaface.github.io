@@ -28,17 +28,9 @@ __Computer Science B.S.__ University of Delaware, Newark, DE. 3.28/4.0.
 `Dec 2018`
 [GLITCH's Power Leveling Program](https://glitch.mn/powerleveling/)
 
-`Fall 2018`
+`Fall 2018, Spring 2018, Spring 2016, Fall 2015`
 Dean's List
 
-`Spring 2018`
-
-
-`Spring 2016`
-
-
-`Fall 2015`
-  
 
 ## Experience
 
@@ -148,7 +140,7 @@ Human-Computer Interaction
 
 ## Extracurriculars
 
-`May 2018 — May 2019`
+`May 2018 — Jan 2019`
 __President.__ Association for Computing Machinery at the University of Delaware
 * Led weekly coding challenges, coordinated hackathons
 
@@ -168,5 +160,3 @@ __Freelance Web Developer__
 ## Personal
 
 Twitter: [@AlinaWithAFace](https://twitter.com/AlinaWithAFace)
-[Spotify](https://open.spotify.com/user/12144301021)
-Discord: AlinaWithAFace#7518

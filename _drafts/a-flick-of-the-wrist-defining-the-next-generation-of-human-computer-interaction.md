@@ -5,7 +5,7 @@ date:   2019-03-19
 image: [magic]
 ---
 
-The following is a written version of a talk I did at TedX Goldey Beacom in January 2019. They filmed it, which you can watch eventually when they upload it 🙃
+The following is a written version of a talk I did at TedX Goldey Beacom in January 2019. They filmed it, which you can watch [here]!
 
 ---
 
@@ -205,6 +205,8 @@ The question is no longer "how can we make this work?" but rather "how should th
 
 I read many, many, *many* things to prep for this in order to create something mildly resembling a narrative for this talk. I did my best to save sources, most of which are linked to throughout, but feel free to check the [source] for a full list.
 
+[here]: https://www.youtube.com/watch?v=lq8cvQSfiMs
+
 [TedX Goldey Beacom]: https://www.ted.com/tedx/events/32155
 
 [magic]: ../assets/img/magic-hand.jpg
@@ -229,7 +231,7 @@ I read many, many, *many* things to prep for this in order to create something m
 [Painting a mountain]: https://vimeo.com/302624466
 [Memo Akten]: (https://www.memo.tv/portfolio/learning-to-see/)
 
-[super-hot]: ../assets/img/super-hot.gif
+[super-hot]: ../assets/img/super-hot.mp4
 [Superhot VR Trailer]: (www.youtube.com/watch?v=pzG7Wc6mbwE)
 [Super Hot]: (https://superhotgame.com/vr/)
 

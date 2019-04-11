@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+# *Hi!*
+
 ![hero](../assets/img/hero.jpg)
 
-Alina Christenbury is a senior studying computer science at the University of Delaware who is interested in Human-computer interaction, game development, and virtual/augmented reality.
-Her love for virtual worlds at an early age has transformed into a passion for building a real world powered by augmented superpowers and immersive experiences. She received the Science and Engineering Summer Scholars Award in 2018, and is currently leading a team of undergraduates in creating interactive experiences.
+I'm __*Alina Christenbury*__, a PhD student in the [Human Computer Interaction Lab](https://sites.udel.edu/hci-lab/) at the University of Delaware where my advisor is [Dr. Roghayeh Barmaki](https://sites.udel.edu/rlb/). I'm also part of the [Vertically Integrated Projects](https://vip.udel.edu/) (VIP) program where I'm advised by [Professor Andy Novocin](http://andy.novocin.com/pro/) and leading VIP:VR. My full CV can be found [here](http://alinac.me/cv/).
+
+
+I'm particularly interested in human-computer interaction, game development, spatial computing, and machine learning applications.
