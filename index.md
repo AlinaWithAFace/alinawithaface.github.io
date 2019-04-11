@@ -1,6 +1,7 @@
 ---
 layout: landing
 title: Alina Christenbury
+permalink: /
 ---
 
 # *Hi!*
