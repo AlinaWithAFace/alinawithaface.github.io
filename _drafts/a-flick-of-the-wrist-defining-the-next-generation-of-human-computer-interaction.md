@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "A Flick of the Wrist: Defining the Next Generation of Human-Computer Interaction"
-date:   2019-03-19
 image: [magic]
 ---
 
