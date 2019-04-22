@@ -19,6 +19,7 @@ Classes to Take
 * Ceramics
 * Glasswork
 * [Drawabox](https://drawabox.com/)
+* [Machine Learning Offered By Stanford University](https://www.coursera.org/learn/machine-learning)
 
 
 Things to Make
@@ -36,6 +37,10 @@ Things to Make
 * Build a modular purse / bag system with various detachable pieces that mesh with each other
 * Make a shadowbox
 * Build a [Farmbot](https://farm.bot/)
+* Rebuild my [childhood MMO](http://mabinogi.nexon.net/landing/) in VR
+* Define how full-body human-computer gesture interaction works
+* Make Mei's PJ pants
+* Make a working D.va bluetooth headset
 
 
 Professional Goals
@@ -51,7 +56,7 @@ Professional Goals
 
 Habit Goals
 ---
-* Read for 30 minutes a day for three months in a row
+* Read for 30 minutes a day for five days a week for three months in a row
 * ~~Bike for local transportation for at least a year~~ (May 2016, going on 4 years as of 2019!)
 
 
@@ -59,6 +64,10 @@ Skill Goals
 ---
 * Disassemble a bike and put it back together again
 * Learn ASL
+
+
+Style Goals
+---
 
 
 Fun and/or “Insane” Goals
@@ -130,6 +139,6 @@ Life Goals
 * Get a matching tattoo with sisters
 * Run for a political office in my home state of Delaware
   - End homelessness in Delaware
-  - Implement a [score voting system](https://ncase.me/ballot/)
+  - Implement a [score voting system](https://ncase.me/ballot/) / save democracy!
 * Save $300,000 - Escape poverty permanently by having enough money set aside generating passive income. Basic income for daaays
-* Save $900,000 - [Retire Mr.MoneyMustache style](https://www.mrmoneymustache.com/2011/09/15/a-brief-history-of-the-stash-how-we-saved-from-zero-to-retirement-in-ten-years/)
+  - Save $900,000 - [Retire Mr.MoneyMustache style](https://www.mrmoneymustache.com/2011/09/15/a-brief-history-of-the-stash-how-we-saved-from-zero-to-retirement-in-ten-years/)
