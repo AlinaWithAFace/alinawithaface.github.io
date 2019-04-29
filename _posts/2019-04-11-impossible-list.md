@@ -6,45 +6,44 @@ tags: things-i-made
 ---
 So, I stumbled upon [Thomas Frank's Impossible List](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/) early in my college days, and thought it was pretty fantastic. He picked it up from this other guy [Joel Runyon](https://impossiblehq.com/impossible-list/) who goes into the philosophy behind it [here](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/).
 
-Anyway here's mine. It's been floating around on different people's services and tools in various forms, but I decided it would be best to compile it on something I had a bit more control over. As with others, it's dynamic and personal.
+Anyway here's mine. It's been floating around on different people's services and tools in various forms, but I decided it would be best to compile it on something I had a bit more control over. As with others, it's dynamic and personal. Feel free to take your negative value and/or character judgements and deposit them in your local compost bin :)
 
 > The literal meaning of life is whatever you're doing that prevents you from killing yourself. -Albert Camus
-
-Classes to Take
----
-* ~~[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/)~~ (June 2015)
-* ~~Blacksmithing~~ (July 2018, I made a [knife](..assets/img/knife.jpg)!)
-* Woodworking
-* Cooking
-* Ceramics
-* Glasswork
-* [Drawabox](https://drawabox.com/)
-* [Machine Learning Offered By Stanford University](https://www.coursera.org/learn/machine-learning)
 
 
 Things to Make
 ---
-* Design and 3D print a house (and live in it for at least a year!)
-* Design a clothing line of =>10 articles
+* ~~Something using metalworking~~ (July 2018, I made a [knife](..assets/img/knife.jpg)!)
+* Something using woodworking
+* Something using ceramics
+* Something using glasswork
+* Design and 3D print a house (and live in it!)
+* Something using [machine learning]((https://www.coursera.org/learn/machine-learning)
+* Design a clothing line of =>5 articles
 * Make a chiptune track
-* Make a read-to-me podcast or audio series
+* Make audio art
 * Design a gymleadersona based on my Pokemon dream team
-* Make an AR application that interactively teaches the player how to play guitar
-* Make an AR application that interactively teaches the player how to play piano
+* Make an AR application that interactively teaches the player how to play an instrument
 * Make an open source plugin integrating [Deep Dream](https://deepdreamgenerator.com/) style transfer techniques with [Krita](https://krita.org/en/)
 * Build a physical arcade cabinet of a game I helped develop
 * Make a haunted house and/or go crazy over Halloween décor
 * Build a modular purse / bag system with various detachable pieces that mesh with each other
 * Make a shadowbox
 * Build a [Farmbot](https://farm.bot/)
-* Rebuild my [childhood MMO](http://mabinogi.nexon.net/landing/) in VR
+* Rebuild my [childhood MMO](http://mabinogi.nexon.net) in VR
 * Define how full-body human-computer gesture interaction works
 * Make Mei's PJ pants
 * Make a working D.va bluetooth headset
+* Start an apprenticeship program
+* Design a board game
 
 
 Professional Goals
 ---
+* Be financially independent
+  - Save $300,000 - Escape poverty permanently by having enough money set aside generating passive income. Basic income for daaays
+    - Save $900,000 - [Retire Mr.MoneyMustache style](https://www.mrmoneymustache.com/2011/09/15/a-brief-history-of-the-stash-how-we-saved-from-zero-to-retirement-in-ten-years/)
+  - Be supported by an audience
 * Get a bachelor's degree in computer science (SOON, LIKE MAY 2019 SOON)
   - Get a PhD
 * ~~Give a TEDx talk~~ ([January 2019](https://www.youtube.com/watch?v=lq8cvQSfiMs))
@@ -52,28 +51,35 @@ Professional Goals
   - Give a talk at GDC
 * Start a game development co-op
 * Start a machine learning games middleware business
+* Run a kickstarter campaign
+* Run for a political office in my home state (Delaware! We're so lil!)
+  - End homelessness
+  - Implement a [score voting system](https://ncase.me/ballot/) / save democracy!
 
 
 Habit Goals
 ---
 * Read for 30 minutes a day for five days a week for three months in a row
 * ~~Bike for local transportation for at least a year~~ (May 2016, going on 4 years as of 2019!)
+  - for a year
+* Stay off of social media for a month
+* Treat the internet as write-only for a year
+* Commit to spending 2 hours five times a week to developing personal art (including coding, writing, game design/development, drawing, etc.) for 30 days
 
 
 Skill Goals
 ---
 * Disassemble a bike and put it back together again
 * Learn ASL
-
-
-Style Goals
----
+* Complete [Drawabox](https://drawabox.com/)
+* Complete Unity Certification
 
 
 Fun and/or “Insane” Goals
 ---
 * Learn Parkour
 * Bike across America
+* Get a matching tattoo with siblings
 
 
 Places to go, people to see
@@ -127,18 +133,3 @@ Places to go, people to see
 * Take a cross-country train ride
 * Visit the [Ramen Noodle Museum](https://www.cupnoodles-museum.jp)
 * ~~Attend a Renaissance Fair~~ ([August 2018](http://www.parenfaire.com/faire.html))
-
-
-Games Goals
----
-* Win a local smash bros tournament
-
-
-Life Goals
----
-* Get a matching tattoo with sisters
-* Run for a political office in my home state of Delaware
-  - End homelessness in Delaware
-  - Implement a [score voting system](https://ncase.me/ballot/) / save democracy!
-* Save $300,000 - Escape poverty permanently by having enough money set aside generating passive income. Basic income for daaays
-  - Save $900,000 - [Retire Mr.MoneyMustache style](https://www.mrmoneymustache.com/2011/09/15/a-brief-history-of-the-stash-how-we-saved-from-zero-to-retirement-in-ten-years/)
