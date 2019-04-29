@@ -96,8 +96,6 @@ Machine learning is essentially using particular algorithms to teach computers h
 
 I drew that last one, he’s *probably* okay.
 
----
-
 There’s a lot of exciting work using machine learning to see the world through a computer’s eyes.
 
 We're able to take artificial intelligence and show it parts of the world. We can show them our bodies, our paintings, [how objects interact], [see what they come up with], and use that to shape our perception. Machine learning is able to make sense of the vast amount of information in reality, while XR will help us see it more clearly.
@@ -119,7 +117,7 @@ It’s been used as the backbone for other work, including research projects tha
 
 ... and help you, (or at least, a video of you) perform [intricate ballet dances].
 
-![a source video of one person dancing, a skeleton of their dance's detected pose, and two other people doing the exact same dance using machine learning][everybody-dance-now]
+![a source video of one person dancing, a skeleton of their dance's detected pose, and two other people doing the exact same dance using machine learning][everybody-dance-now]\
 *[Everybody Dance now via Caroline Chan]*
 
 [Pix2Pix] is a project at Berkeley that uses neural networks to generate images based on training data.
@@ -129,7 +127,7 @@ It’s been used as the backbone for other work, including research projects tha
 
 It’s been further remixed into applications that [turn your webcam feed into flowers]...
 
-![someone manipulating everyday objects as a neural network morphs it into flowers][learning-to-see-flowers]
+![someone manipulating everyday objects as a neural network morphs it into flowers][learning-to-see-flowers]\
 *[Learning to See: Gloomy Sunday]*
 
 ... or turn photos of Wilmington’s skyline into gorgeous paintings that emulate Van Goh.
