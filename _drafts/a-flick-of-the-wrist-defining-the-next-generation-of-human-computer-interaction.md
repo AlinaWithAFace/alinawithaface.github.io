@@ -230,7 +230,7 @@ I read many, many, *many* things to prep for this in order to create something m
 [Painting a mountain]: https://vimeo.com/302624466
 [Memo Akten]: (https://www.memo.tv/portfolio/learning-to-see/)
 
-[super-hot]: ../assets/img/super-hot.mp4
+[super-hot]: ../assets/img/super-hot.gif
 [Superhot VR Trailer]: (www.youtube.com/watch?v=pzG7Wc6mbwE)
 [Super Hot]: (https://superhotgame.com/vr/)
 
