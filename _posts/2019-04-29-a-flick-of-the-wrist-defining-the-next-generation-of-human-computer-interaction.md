@@ -281,4 +281,4 @@ I read many, many, *many* things to prep for this in order to create something m
 [David Holz]: (http://blog.leapmotion.com/northstar/)
 [Illustration by Anna Mill]: http://annamill.com/
 
-[source]: https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/master/_posts
+[source]: https://github.com/AlinaWithAFace/alinawithaface.github.io/blob/master/_posts/2019-04-29-a-flick-of-the-wrist-defining-the-next-generation-of-human-computer-interaction.md
