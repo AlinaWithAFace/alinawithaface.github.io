@@ -2,6 +2,7 @@
 layout: post
 title:  "A Flick of the Wrist: Defining the Next Generation of Human-Computer Interaction"
 image: [magic]
+date: 2019-04-29
 ---
 
 The following is a written version of a talk I did at TedX Goldey Beacom in January 2019. They filmed it, which you can watch [here]!
