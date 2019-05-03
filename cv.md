@@ -25,6 +25,13 @@ __Computer Science B.S.__ University of Delaware, Newark, DE. 3.28/4.0.
 
 ## Awards
 
+`May 2019`
+[Unidel Distinguished Graduate Scholars Program](https://grad.udel.edu/fees-and-funding/unidel-grad-scholars-award/)
+
+
+`May 2019`
+Lauri Pfeffer Shinn Memorial Award
+
 `Dec 2018`
 [GLITCH's Power Leveling Program](https://glitch.mn/powerleveling/)
 
