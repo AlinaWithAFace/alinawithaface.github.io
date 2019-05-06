@@ -2,7 +2,6 @@
 layout: post
 title:  "Seasonal Wallpaper App"
 date:    2019-03-05
-tags: things-i-made
 image: [seasonal-wallpapers]
 ---
 
