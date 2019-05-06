@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Escape the Witch's Grotto"
+date:    2019-05-05
+---
+
 # Escape the Witch's Grotto
 
 Use magic, potions, and your wits to escape to freedom!

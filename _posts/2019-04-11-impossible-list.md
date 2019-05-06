@@ -2,7 +2,6 @@
 layout: post
 title:  "Impossible List"
 date: 2019-04-11
-tags: things-i-made
 ---
 So, I stumbled upon [Thomas Frank's Impossible List](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/) early in my college days, and thought it was pretty fantastic. He picked it up from this other guy [Joel Runyon](https://impossiblehq.com/impossible-list/) who goes into the philosophy behind it [here](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/).
 
