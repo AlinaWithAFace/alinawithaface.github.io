@@ -12,3 +12,5 @@ https://vimeo.com/24715531
 
 "The test will measure whether you are an informed, engaged, and productive citizen of the world, and it will take place in schools and bars and hospitals and dorm rooms and in places of worship. You will be tested on first dates, in job interviews, while watching football, and while scrolling through your Twitter feed. The test will judge your ability to think about things other than celebrity marriages, whether you’ll be easily persuaded by empty political rhetoric, and whether you’ll be able to place your life and your community in a broader context. The test will last your entire life, and it will be comprised of the millions of decisions that, when taken together, will make your life yours. And everything, everything, will be on it."
 - John Green
+
+So when people say, “What should I do with my life?” or “What is my life purpose?” what they’re actually asking is: “What can I do with my time that is important?”

@@ -3,6 +3,7 @@ layout: post
 title:  "Impossible List"
 date: 2019-04-11
 ---
+
 So, I stumbled upon [Thomas Frank's Impossible List](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/) early in my college days, and thought it was pretty fantastic. He picked it up from this other guy [Joel Runyon](https://impossiblehq.com/impossible-list/) who goes into the philosophy behind it [here](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/).
 
 Anyway here's mine. It's been floating around on different people's services and tools in various forms, but I decided it would be best to compile it on something I had a bit more control over. As with others, it's dynamic and personal. Feel free to take your negative value and/or character judgements and deposit them in your local compost bin :)
@@ -16,6 +17,7 @@ Things to Make
 * Something using woodworking
 * Something using ceramics
 * Something using glasswork
+* Something using perler beads
 * Design and 3D print a house (and live in it!)
 * Something using [machine learning]((https://www.coursera.org/learn/machine-learning)
 * Design a clothing line of =>5 articles
@@ -64,6 +66,7 @@ Habit Goals
 * Stay off of social media for a month
 * Treat the internet as write-only for a year
 * Commit to spending 2 hours five times a week to developing personal art (including coding, writing, game design/development, drawing, etc.) for 30 days
+* Write more???
 
 
 Skill Goals
@@ -72,6 +75,7 @@ Skill Goals
 * Learn ASL
 * Complete [Drawabox](https://drawabox.com/)
 * Complete Unity Certification
+* Hack a voting machine
 
 
 Fun and/or “Insane” Goals
@@ -79,56 +83,31 @@ Fun and/or “Insane” Goals
 * Learn Parkour
 * Bike across America
 * Get a matching tattoo with siblings
+* [Watch all the movies](https://www.imdb.com/user/ur63548708/watchlist)
+* [Read all the books](https://www.goodreads.com/review/list/58329981-alina)
 
-
-Places to go, people to see
+Things to do
 ---
 * ~~Attend [PAX](http://www.paxsite.com/)~~ (September 2016)
     - ~~Attend [GDC](https://gdconf.com/)~~ (March 2019)
     - Attend all the other games and spatial computing conferences, oh my god there are so many
-        - MAZE Berlin
-        - Augmented World Expo (AWE)
-        - Austin Game Conference
-        - BIG Festival
-        - BitSummit
-        - Casual Connect
-        - CEDEC
-        - CES
-        - ChinaJoy
-        - Devcom Developer Conference
-        - Develop Conference (Brighton)
-        - DICE
-        - E3
-        - EGX Rezzed
-        - Eurogamer Expo (EGX)
-        - Fantastic Fest/Arcade
-        - Game Connection
-        - Gamelab Barcelona
-        - gamescom
-        - IndieCade
-        - LeapCon (Magic Leap)
-        - Mobile World Congress
-        - Montreal International Game Summit (MIGS)
-        - Nordic Game Conference
-        - Oculus Connect
-        - Pocket Gamer Evemts
-        - San Diego Comic-Con
-        - SIGGRAPH
-        - SLUSH
-        - SXSW
-        - Taipei Game Show
-        - Tokyo Game Show (TGS)
-        - TwitchCon
-        - Unity Unite
-        - Vision VR/AR Summit
-        - XRDC
-        - VRLA
 * ~~Attend any professional esports Event~~ (July 2018, [Overwatch League Grand Finals at Barclays Center](https://www.barclayscenter.com/events/detail/overwatch-league-grand-finals-2018)
-* ~~See [Amanda Palmer](https://amandapalmer.net/)~~ (April 2019)
-* Attend a [Bo Burnham](http://www.boburnham.com/) show
 * Attend [Cheesetoberfest](https://www.cheesetoberfest.com/)
 * Attend [JojoCruise](https://jococruise.com/)
-* Visit Japan, because I'm 10% weeb
-* Take a cross-country train ride
-* Visit the [Ramen Noodle Museum](https://www.cupnoodles-museum.jp)
 * ~~Attend a Renaissance Fair~~ ([August 2018](http://www.parenfaire.com/faire.html))
+* * Attend [Train Jam](https://trainjam.com/)
+
+Places to go
+---
+* Japan, because I'm 10% weeb
+  - Visit the [Ramen Noodle Museum](https://www.cupnoodles-museum.jp)
+* Take a cross-country train ride across America
+* Visit [Sean’s Bar – Athlone Ireland-900 AD￼](https://en.wikipedia.org/wiki/Sean%27s_Bar), the oldest pub in Europe
+
+
+People to see
+---
+* ~~[Caravan Palace](https://www.caravanpalace.com/) show~~ (July 2017? ish?)
+* ~~[Postmodern Jukebox](https://postmodernjukebox.com/)~~ (September 2018? ish?)
+* ~~[Amanda Palmer](https://amandapalmer.net/)~~ (April 2019)
+* [Bo Burnham](http://www.boburnham.com/)
