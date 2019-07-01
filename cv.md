@@ -8,14 +8,7 @@ permalink: /cv/
 
 XR Researcher.
 
-<div id="webaddress">
-302.648.2117
-|
-<a href="alinac@udel.edu">alinac@udel.edu</a>
-|
-<a href="http://alinac.me">alinac.me</a>
-</div>
- 302.648.2117 \| [alinac@udel.edu](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/alinac@udel.edu) \| [alinac.me](http://alinac.me)
+ 302.648.2117 \| [alinac@udel.edu](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/2022bba30520ae159c38e17b2361bdefa4bb71d4/alinac@udel.edu) \| [alinac.me](http://alinac.me)
 
 ## Research Interests
 
