@@ -1,6 +1,6 @@
-# alinawithaface.github.io
+# Alina Christenbury's Personal Website
 
-Hi! This is my personal website! Feel free to poke around.
+Hi! This is my website! Feel free to poke around.
 
 Bits are based on these lovely people:
 
