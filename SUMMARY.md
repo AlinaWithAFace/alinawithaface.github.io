@@ -2,7 +2,7 @@
 
 * [alinawithaface.github.io](README.md)
 * [\_posts](_posts/README.md)
-  * [Kickstarting Delaware's Indie Game Dev Scene](_posts/kickstarting-delawares-indie-game-dev-scene.md)
+  * [Kickstarting Delaware's Indie Game Dev Scene](_posts/2019-06-01-kickstarting-delawares-indie-game-dev-scene.md)
   * [A Flick of the Wrist: Defining the Next Generation of Human-Computer Interaction](_posts/2019-04-29-a-flick-of-the-wrist-defining-the-next-generation-of-human-computer-interaction.md)
   * [Impossible List](_posts/2019-04-11-impossible-list.md)
   * [Seasonal Desktop Wallpapers](_posts/2019-03-05-seasonal-desktop-app.md)
