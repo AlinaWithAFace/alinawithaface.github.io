@@ -2,14 +2,13 @@
 layout: post
 title: Impossible List
 date: '2019-04-11T00:00:00.000Z'
-description: Published 2019-04-11
 ---
 
 # Impossible List
 
 So, I stumbled upon [Thomas Frank's Impossible List](https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/) early in my college days, and thought it was pretty fantastic. He picked it up from this other guy [Joel Runyon](https://impossiblehq.com/impossible-list/) who goes into the philosophy behind it [here](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/).
 
-Anyway here's mine. It's been floating around on different people's services and tools in various forms, but I decided it would be best to compile it on something I had a bit more control over. As with others, it's dynamic and personal. Feel free to take your negative value and/or character judgements and deposit them in your local compost bin :\)
+Anyway here's mine. It's been floating around on different people's services and tools in various forms, but I decided it would be best to compile it on something I had a bit more control over. As with others, it's dynamic and personal. Feel free to take your negative value and/or character judgments and deposit them in your local compost bin :\)
 
 > The literal meaning of life is whatever you're doing that prevents you from killing yourself. -Albert Camus
 
@@ -39,6 +38,11 @@ Anyway here's mine. It's been floating around on different people's services and
 * Make a working D.va bluetooth headset
 * Start an apprenticeship program
 * Design a board game
+
+#### Cooking Goals
+
+* Miso Soup
+* Hot Pot
 
 ## Professional Goals
 
