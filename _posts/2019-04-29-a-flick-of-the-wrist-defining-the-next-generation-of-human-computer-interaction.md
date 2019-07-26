@@ -27,7 +27,7 @@ Right now, we live in a world where we manipulate the entirety of human knowledg
 
 ![](../.gitbook/assets/st-peters-2005.jpg)
 
-[\_\_![](../.gitbook/assets/st-peters-2013.jpg)\_\_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28http:/photoblog.nbcnews.com/_news/2013/03/14/17312316-witnessing-papal-history-changes-with-digital-age%29/README.md)
+![](../.gitbook/assets/st-peters-2013.jpg)
 
 
 
