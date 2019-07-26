@@ -13,23 +13,15 @@ description: Published 2019-04-29
 
 The following is a written version of a talk I did at TedX Goldey Beacom in January 2019. They filmed it, which you can watch [here](https://www.youtube.com/watch?v=lq8cvQSfiMs)!
 
----
-
 For years, we've been enchanted by the idea of magic. The thought that someone, with the wave of a wand, snap of a finger, or some special words, can completely change the world around them in an instant is an idea that has captured minds throughout history.
-
- 
 
 ![](../.gitbook/assets/magic-hand.jpg)
 
 Right now, we live in a world where we manipulate the entirety of human knowledge on screens barely bigger than credit cards. I’d be willing to bet that everyone in this room has a device in their pocket that has more computing power than the technology we used to send people to space. And relative to the rest of human history, it’s all happened in the blink of an eye. It’s really difficult to overstate how far we’ve already come, even within my lifetime.
 
-  
-
 ![](../.gitbook/assets/st-peters-2005.jpg)
 
 ![](../.gitbook/assets/st-peters-2013.jpg)
-
-
 
 [_St. Peter’s Square in 2005 vs 2013 via NBC_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28http:/photoblog.nbcnews.com/_news/2013/03/14/17312316-witnessing-papal-history-changes-with-digital-age%29/README.md)
 
@@ -61,23 +53,17 @@ Now, you want to tell me that all of these sound crazy, requiring tech we don’
 
 The chemistry application is [Project Pupil](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.etc.cmu.edu/blog/projects/pupil/%29/README.md) at Carnegie Mellon.
 
- 
-
 ![](../.gitbook/assets/project-pupil.gif)
 
 _via_ [_Yujin Ariza_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/twitter.com/YujinAriza/status/1068619034827083783/README.md)
 
 The painting? An application by [Memo Akten](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.memo.tv/portfolio/learning-to-see/%29/README.md).
 
- 
-
 ![](../.gitbook/assets/mountain-paint.gif)
 
 [_Painting a mountain_](https://vimeo.com/302624466)
 
 The slow-motion shooter? [Super Hot](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/superhotgame.com/vr/%29/README.md), which you can literally go to a VR arcade to play _right now_.
-
- 
 
 ![](../.gitbook/assets/super-hot.gif)
 
@@ -86,8 +72,6 @@ The slow-motion shooter? [Super Hot](https://github.com/AlinaWithAFace/alinawith
 So, what are these things anyway? How are we doing this?
 
 For the uninitiated, XR is used as an umbrella term to describe a continuum of combinations of real and virtual objects interacting in tandem. This includes technologies like virtual reality, where your entire environment is digital, augmented reality, where you overlay flat images onto the real world, and any dimension in between.
-
- 
 
 ![](../.gitbook/assets/mirrorworlds-concept.gif)
 
@@ -99,8 +83,6 @@ Maybe you’ve played with primitive augmented reality systems, like [Pokemon Go
 
 Or are lucky enough to have tried virtual reality system sellers like [Beat Saber](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28beatsaber.com%29).
 
- 
-
 ![](../.gitbook/assets/beat-saber.gif)
 
 [_Beat Saber via LIV and SwanVR_](https://youtu.be/gV1sw4lfwFw)
@@ -108,8 +90,6 @@ Or are lucky enough to have tried virtual reality system sellers like [Beat Sabe
 The one thing XR technologies have in common is they use computers to shape your perception. XR as a spectrum can put you in wholly new and different environments, or simply add information to the real world.
 
 Machine learning is essentially using particular algorithms to teach computers how to solve problems. It’s used in all sorts of applications, from [mastering Go](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/deepmind.com/research/alphago/%29/README.md)...
-
- 
 
 ![](../.gitbook/assets/alphago.jpg)
 
@@ -121,8 +101,6 @@ Machine learning is essentially using particular algorithms to teach computers h
 
 ... to [generate cats from a handful of lines](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/affinelayer.com/pixsrv/%29/README.md).
 
- 
-
 ![](../.gitbook/assets/pix-2-cats.png)
 
 [_Via pix2cats_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/affinelayer.com/pixsrv/%29/README.md)
@@ -132,8 +110,6 @@ I drew that last one, he’s _probably_ okay.
 There’s a lot of exciting work using machine learning to see the world through a computer’s eyes.
 
 We're able to take artificial intelligence and show it parts of the world. We can show them our bodies, our paintings, [how objects interact](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.youtube.com/watch?v=keffWSqi67w%29/README.md), [see what they come up with](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28youtu.be/FlgLxSLsYWQ%29/README.md), and use that to shape our perception. Machine learning is able to make sense of the vast amount of information in reality, while XR will help us see it more clearly.
-
- 
 
 ![](../.gitbook/assets/machine-eye-memo.jpeg)
 
@@ -147,15 +123,11 @@ I feel like some of the most exciting developments have been through open source
 
 It’s been used as the backbone for other work, including research projects that help [put your whole body in virtual reality](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/realsense.intel.com/deep-learning-for-vr-ar/%29/README.md)...
 
- 
-
 ![](../.gitbook/assets/intel-realsense-ml-vr.gif)
 
 [_Deep Learning for VR/AR: Body Tracking with Intel RealSense Technology_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28youtu.be/VSHDyUXSNqY?t=1069%29/README.md)
 
 ... and help you, \(or at least, a video of you\) perform [intricate ballet dances](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/carolineec.github.io/everybody_dance_now/%29/README.md).
-
- 
 
 ![](../.gitbook/assets/everybody-dance-now.gif)
 
@@ -163,23 +135,17 @@ It’s been used as the backbone for other work, including research projects tha
 
 [Pix2Pix](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/github.com/phillipi/pix2pix%29/README.md) is a project at Berkeley that uses neural networks to generate images based on training data.
 
- 
-
 ![](../.gitbook/assets/pix-2-pix-demo.jpg)
 
 [_Pix2Pix via a Affinelayer_](https://affinelayer.com/pix2pix/)
 
 It’s been further remixed into applications that [turn your webcam feed into flowers](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.memo.tv/portfolio/learning-to-see/%29/README.md)...
 
- 
-
 ![](../.gitbook/assets/learning-to-see-flowers.gif)
 
 [_Learning to See: Gloomy Sunday_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/vimeo.com/260612034/README.md)
 
 ... or turn photos of Wilmington’s skyline into gorgeous paintings that emulate Van Goh.
-
- 
 
 ![](../.gitbook/assets/wilmington-deep-dream.gif)
 
@@ -193,8 +159,6 @@ These are all open source, so anyone can take their work and build on top of it 
 
 "They" includes me.
 
- 
-
 ![](../.gitbook/assets/alina-north-star.jpg)
 
 [_Me in my North Star via UDaily_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.udel.edu/udaily/2018/august/alina-christenbury-virtual-reality-summer-research/%29/README.md)
@@ -205,23 +169,17 @@ I’m currently building my own North Star. Some of the parts I was able to 3D p
 
 Just last week I went to [Reality Virtually](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/realityvirtuallyhack.com/%29/README.md), a hackathon at MIT’s Media lab. I got together with over 400 other developers, artists, designers, and coders to make XR applications.
 
- 
-
 ![](../.gitbook/assets/reality-virtually-2019-hci-squad.jpg)
 
 _The University of Delaware Human-Computer Interaction at Reality Virtually. Right to left: Zhang Guo, Dr. Roghayeh Barmaki, Alina Christenbury, Yan-Ming Chiou_
 
 The one rule for all projects at the hackathon was that they had to be open source, so that anyone around the world could take what they made and create new and interesting applications. Together, we made just under 100 XR projects including tools for physical therapy and accessibility, but also games and interactive art. My team made a [VR escape room](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/devpost.com/software/virtual-escape-room-bj9lwv%29/README.md) in under 5 days, and my advisor [Dr. Barmaki’s physical therapy project](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/devpost.com/software/move2improve%29/README.md) won “Best VR application”.
 
- 
-
 ![](../.gitbook/assets/reality-virtually-2019-escape-room.gif)
 
 [_Escape the Witch's Grotto_](https://www.youtube.com/watch?v=j4SkaYllHz4)
 
 In my mind, this technology really comes together in the concept of [Mirrorworlds](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28http:/blog.leapmotion.com/mirrorworlds/%29/README.md).
-
- 
 
 ![](../.gitbook/assets/mirrorworlds.gif)
 

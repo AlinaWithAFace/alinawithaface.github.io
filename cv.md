@@ -2,6 +2,7 @@
 layout: cv
 title: Alina Christenbury's CV
 permalink: /cv/
+description: My CV!
 ---
 
 # Alina Christenbury

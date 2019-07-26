@@ -1,3 +1,7 @@
+---
+description: Published 2019-06-05
+---
+
 # 🎓 State of the Things
 
 So, _Things Have Happened_
