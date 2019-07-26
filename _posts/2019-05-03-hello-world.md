@@ -4,7 +4,7 @@ description: Published 2019-05-03
 
 # 👋 Hello World
 
-![30 days until graduation ho!](../.gitbook/assets/image.png)
+![30 days until graduation ho!](../assets/img/image.png)
 
 Hey nerds!  
   
