@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Introduction](README.md)
 * [Hiya!](index.md)
 * [Alina Christenbury](cv.md)
 * [\_posts](_posts/README.md)
@@ -10,4 +11,9 @@
   * [An Open Letter to Evan Loomis](_posts/2019-02-07-an-open-letter-to-evan-loomis.md)
   * [The Fourty Hour Work Week](_posts/2016-04-18-the-fourty-hour-work-week.md)
   * [Chaos Games and Procedural Generation](_posts/2016-04-10-chaos-games-and-procedural-generation.md)
+
+## TinyLetter
+
+* [🎓 State of the Things](tinyletter/state-of-the-things.md)
+* [👋 Hello World](tinyletter/hello-world.md)
 
