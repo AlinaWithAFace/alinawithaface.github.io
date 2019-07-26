@@ -11,7 +11,7 @@ I feel like chaos/chaos theory has a very interesting way of generating images a
 
 One of the ones Dr. Passmore covered in his colloquium last Monday was the Sierpinski triangle, generated with a 3 point ‘chaos game’. You begin with 3 initial points, about where the tips of the triangle would be, and then start at any point within those boundaries. Then you roll a die or use some other random method of choosing one of the initial coordinates, and travel half the distance between your starting point and the initial point chosen. At the end of the day, i.e., after doing this for several hours, you can somewhat reliably generate the Sierpinski triangle.
 
-![](../.gitbook/assets/triangle.gif)
+![](.gitbook/assets/triangle.gif)
 
 > Animated creation of a Sierpinski triangle using the chaos game \([Wikipedia](https://en.wikipedia.org/wiki/Sierpinski_triangle#/media/File:Sierpinski_chaos_animated.gif)\)
 
@@ -19,7 +19,7 @@ And that’s really just the tip of the iceberg. Other methods using chaos can m
 
 Recently, it’s been popular to use similar methods for generating things within game universes as well. Procedural generation, the process of using algorithms and processes to build a world, character, or questline rather than individually designing them, has become a somewhat common practice among not only indie developers, but large AAA studios as well.
 
-![](../.gitbook/assets/mandelbrot.jpeg)
+![](.gitbook/assets/mandelbrot.jpeg)
 
 > Section of a Mandelbrot set, a type of fractal \([Wikipedia](https://en.wikipedia.org/wiki/Benoit_Mandelbrot#/media/File:Mandel_zoom_08_satellite_antenna.jpg)\)
 

@@ -19,15 +19,15 @@ For years, we've been enchanted by the idea of magic. The thought that someone, 
 
  
 
-![](../.gitbook/assets/magic-hand.jpg)
+![](.gitbook/assets/magic-hand.jpg)
 
 Right now, we live in a world where we manipulate the entirety of human knowledge on screens barely bigger than credit cards. I’d be willing to bet that everyone in this room has a device in their pocket that has more computing power than the technology we used to send people to space. And relative to the rest of human history, it’s all happened in the blink of an eye. It’s really difficult to overstate how far we’ve already come, even within my lifetime.
 
   
 
-![](../.gitbook/assets/st-peters-2005.jpg)
+![](.gitbook/assets/st-peters-2005.jpg)
 
-![](../.gitbook/assets/st-peters-2013.jpg)
+![](.gitbook/assets/st-peters-2013.jpg)
 
 
 
@@ -41,21 +41,21 @@ But first, take a moment to dream with me. It’s 20XX, a Tuesday.
 
 Imagine being a kid taking chemistry for the first time. Remember learning molecular geometry? The thing where atoms are arranged in various 3D shapes like tetrahedra and trigonal pyramidals? You had to draw them out on paper, using nothing but a pencil and ruler to visualize these abstract shapes that make up fundamental pieces of our world.
 
-![](../.gitbook/assets/vsepr-geometries.png)
+![](.gitbook/assets/vsepr-geometries.png)
 
 Or, maybe you were a bit luckier and did an activity where you arranged playdough and toothpicks like I did in high school. They are really sad and droopy.
 
-![](../.gitbook/assets/sad-playdough.png)
+![](.gitbook/assets/sad-playdough.png)
 
 Instead of that, kids in 20XX play with holograms, building out octahedra and seesaws with their bare hands in space. They can manipulate atomic bonds intuitively, playing with digital representations that function as we understand things to at an atomic level.
 
 Imagine you're out hiking and see a gorgeous landscape of mountains. Inspired by their beauty, you whip out your sketchbook, but you don't exactly have an entire collection of paints on your person. But that doesn't matter, as you draw thin wobbly lines, it transforms into a picturesque landscape painting right before your eyes.
 
-![](../.gitbook/assets/drawing-stock-photo.png)
+![](.gitbook/assets/drawing-stock-photo.png)
 
 You get home from work and jump into a game that basically puts you into the matrix. As the lone hero, you stand alone in a hostile world. You’re swarmed by agents, and dodge bullets in slow-motion using your entire body.
 
-![](../.gitbook/assets/matrix-dodge.gif)
+![](.gitbook/assets/matrix-dodge.gif)
 
 Now, you want to tell me that all of these sound crazy, requiring tech we don’t have, right? But it turns out, "20XX" is actually 2018. These are some of the things we did _last year_.
 
@@ -63,7 +63,7 @@ The chemistry application is [Project Pupil](https://github.com/AlinaWithAFace/a
 
  
 
-![](../.gitbook/assets/project-pupil.gif)
+![](.gitbook/assets/project-pupil.gif)
 
 _via_ [_Yujin Ariza_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/twitter.com/YujinAriza/status/1068619034827083783/README.md)
 
@@ -71,7 +71,7 @@ The painting? An application by [Memo Akten](https://github.com/AlinaWithAFace/a
 
  
 
-![](../.gitbook/assets/mountain-paint.gif)
+![](.gitbook/assets/mountain-paint.gif)
 
 [_Painting a mountain_](https://vimeo.com/302624466)
 
@@ -79,7 +79,7 @@ The slow-motion shooter? [Super Hot](https://github.com/AlinaWithAFace/alinawith
 
  
 
-![](../.gitbook/assets/super-hot.gif)
+![](.gitbook/assets/super-hot.gif)
 
 [_Superhot VR Trailer_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28www.youtube.com/watch?v=pzG7Wc6mbwE%29/README.md)
 
@@ -89,19 +89,19 @@ For the uninitiated, XR is used as an umbrella term to describe a continuum of c
 
  
 
-![](../.gitbook/assets/mirrorworlds-concept.gif)
+![](.gitbook/assets/mirrorworlds-concept.gif)
 
 [_Leap Motion Mirrorworlds Concept Video_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.youtube.com/watch?v=kTv7aQx09XI%29/README.md)
 
 Maybe you’ve played with primitive augmented reality systems, like [Pokemon Go](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28pokemongo.com%29)...
 
-![](../.gitbook/assets/pokemon-go.gif)
+![](.gitbook/assets/pokemon-go.gif)
 
 Or are lucky enough to have tried virtual reality system sellers like [Beat Saber](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28beatsaber.com%29).
 
  
 
-![](../.gitbook/assets/beat-saber.gif)
+![](.gitbook/assets/beat-saber.gif)
 
 [_Beat Saber via LIV and SwanVR_](https://youtu.be/gV1sw4lfwFw)
 
@@ -111,19 +111,19 @@ Machine learning is essentially using particular algorithms to teach computers h
 
  
 
-![](../.gitbook/assets/alphago.jpg)
+![](.gitbook/assets/alphago.jpg)
 
 [_Alphago via Alphago Movie_](https://www.alphagomovie.com/images/gallery/gallery-9.jpg)
 
 ... to [powering the brains of self-driving cars](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28waymo.com%29),
 
-![](../.gitbook/assets/waymo.jpg)
+![](.gitbook/assets/waymo.jpg)
 
 ... to [generate cats from a handful of lines](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/affinelayer.com/pixsrv/%29/README.md).
 
  
 
-![](../.gitbook/assets/pix-2-cats.png)
+![](.gitbook/assets/pix-2-cats.png)
 
 [_Via pix2cats_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/affinelayer.com/pixsrv/%29/README.md)
 
@@ -135,7 +135,7 @@ We're able to take artificial intelligence and show it parts of the world. We ca
 
  
 
-![](../.gitbook/assets/machine-eye-memo.jpeg)
+![](.gitbook/assets/machine-eye-memo.jpeg)
 
 [_All watched over by machines of loving grace: Deep-dream edition \(2015\) via Memo Akten_](https://medium.com/artists-and-machine-intelligence/a-digital-god-for-a-digital-culture-resonate-2016-15ea413432d1)
 
@@ -149,7 +149,7 @@ It’s been used as the backbone for other work, including research projects tha
 
  
 
-![](../.gitbook/assets/intel-realsense-ml-vr.gif)
+![](.gitbook/assets/intel-realsense-ml-vr.gif)
 
 [_Deep Learning for VR/AR: Body Tracking with Intel RealSense Technology_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28youtu.be/VSHDyUXSNqY?t=1069%29/README.md)
 
@@ -157,7 +157,7 @@ It’s been used as the backbone for other work, including research projects tha
 
  
 
-![](../.gitbook/assets/everybody-dance-now.gif)
+![](.gitbook/assets/everybody-dance-now.gif)
 
 [_Everybody Dance now via Caroline Chan_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.youtube.com/watch?v=PCBTZh41Ris%29/README.md)
 
@@ -165,7 +165,7 @@ It’s been used as the backbone for other work, including research projects tha
 
  
 
-![](../.gitbook/assets/pix-2-pix-demo.jpg)
+![](.gitbook/assets/pix-2-pix-demo.jpg)
 
 [_Pix2Pix via a Affinelayer_](https://affinelayer.com/pix2pix/)
 
@@ -173,7 +173,7 @@ It’s been further remixed into applications that [turn your webcam feed into f
 
  
 
-![](../.gitbook/assets/learning-to-see-flowers.gif)
+![](.gitbook/assets/learning-to-see-flowers.gif)
 
 [_Learning to See: Gloomy Sunday_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/vimeo.com/260612034/README.md)
 
@@ -181,13 +181,13 @@ It’s been further remixed into applications that [turn your webcam feed into f
 
  
 
-![](../.gitbook/assets/wilmington-deep-dream.gif)
+![](.gitbook/assets/wilmington-deep-dream.gif)
 
 _via_ [_Deep Dream Generator_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/deepdreamgenerator.com%29)
 
 [Project North Star](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/developer.leapmotion.com/northstar%29/README.md) is an augmented reality headset that you can literally 3D print anywhere in the world. There’s a [community](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/discord.gg/fSEcBMe%29/README.md) growing around sourcing and building these headsets, and I think we’ll see some interesting applications as it becomes more accessible.
 
-![](../.gitbook/assets/north-star-spinny.gif) ![](../.gitbook/assets/north-star-ui.gif) ![](../.gitbook/assets/north-star-hands.gif)
+![](.gitbook/assets/north-star-spinny.gif) ![](.gitbook/assets/north-star-ui.gif) ![](.gitbook/assets/north-star-hands.gif)
 
 These are all open source, so anyone can take their work and build on top of it to make all sorts of applications, which they have.
 
@@ -195,19 +195,19 @@ These are all open source, so anyone can take their work and build on top of it 
 
  
 
-![](../.gitbook/assets/alina-north-star.jpg)
+![](.gitbook/assets/alina-north-star.jpg)
 
 [_Me in my North Star via UDaily_](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/www.udel.edu/udaily/2018/august/alina-christenbury-virtual-reality-summer-research/%29/README.md)
 
 I’m currently building my own North Star. Some of the parts I was able to 3D print back at the University of Delaware, others were sourced from community members that have cropped up around the project. Most of this happened over UD’s summer scholars program, where I took 10 weeks to learn the basics of XR development. After the semester started, I turned that experience into an undergraduate research project focused on getting cross-disciplinary students together to develop XR applications.
 
-![](../.gitbook/assets/north-star-build-summer-2018.jpg)
+![](.gitbook/assets/north-star-build-summer-2018.jpg)
 
 Just last week I went to [Reality Virtually](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/_posts/%28https:/realityvirtuallyhack.com/%29/README.md), a hackathon at MIT’s Media lab. I got together with over 400 other developers, artists, designers, and coders to make XR applications.
 
  
 
-![](../.gitbook/assets/reality-virtually-2019-hci-squad.jpg)
+![](.gitbook/assets/reality-virtually-2019-hci-squad.jpg)
 
 _The University of Delaware Human-Computer Interaction at Reality Virtually. Right to left: Zhang Guo, Dr. Roghayeh Barmaki, Alina Christenbury, Yan-Ming Chiou_
 
@@ -215,7 +215,7 @@ The one rule for all projects at the hackathon was that they had to be open sour
 
  
 
-![](../.gitbook/assets/reality-virtually-2019-escape-room.gif)
+![](.gitbook/assets/reality-virtually-2019-escape-room.gif)
 
 [_Escape the Witch's Grotto_](https://www.youtube.com/watch?v=j4SkaYllHz4)
 
@@ -223,7 +223,7 @@ In my mind, this technology really comes together in the concept of [Mirrorworld
 
  
 
-![](../.gitbook/assets/mirrorworlds.gif)
+![](.gitbook/assets/mirrorworlds.gif)
 
 [_Illustration by Anna Mill_](http://annamill.com/)
 
