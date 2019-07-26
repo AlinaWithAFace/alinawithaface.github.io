@@ -15,7 +15,7 @@ The industrial revolution was a period of immense change. Technological advancem
 
 Factories were much different from anything anyone had ever worked with before. Unlike agrarian professions, they defied the natural clock of the sun and ran as frequently as possible, with workers clocking in for twelve, fourteen, or even sixteen hours per day.
 
-![](.gitbook/assets/ford.jpg)
+![](../.gitbook/assets/ford.jpg)
 
 > Ford in 1919 \([Wikipedia](https://en.wikipedia.org/wiki/Henry_Ford#/media/File:Henry_ford_1919.jpg)\)
 
