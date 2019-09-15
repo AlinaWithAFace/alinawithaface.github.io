@@ -29,7 +29,7 @@ Similarly, games with random scenarios or quests like Fallout 4 and XCOM 2 can s
 
 Which brings us to No Man’s Sky, “[a science-fiction game set in an infinite procedurally generated galaxy](https://www.nomanssky.com/)” set to release in summer of this year.
 
-!\[A screenshot from No Man’s Sky\]\[no-mans-sky\]
+![A screenshot from No Man’s Sky](assets/img/no-mans-sky.png)
 
 > A screenshot from [No Man’s Sky](https://www.nomanssky.com/)
 
