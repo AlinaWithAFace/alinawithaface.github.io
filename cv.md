@@ -7,7 +7,7 @@ description: My CV!
 
 # Alina Christenbury
 
-XR Researcher.
+Spatial Games Researcher.
 
  302.648.2117 \| [alinac@udel.edu](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/2022bba30520ae159c38e17b2361bdefa4bb71d4/alinac@udel.edu) \| [alinac.me](http://alinac.me)
 
@@ -16,6 +16,8 @@ XR Researcher.
 Games, collaborative experiences, XR technology, human-computer interaction, machine learning applications in games, generative art, procedural generation
 
 ## Education
+
+`June 2019 — Present` **Computer Science PhD.** University of Delaware, Newark, DE.
 
 `Aug 2015 — May 2019` **Computer Science B.S.** University of Delaware, Newark, DE. 3.28/4.0.
 
@@ -31,7 +33,9 @@ Games, collaborative experiences, XR technology, human-computer interaction, mac
 
 ## Experience
 
-`Sep 2018 — Present` **VIP:VR Project Manager.** University of Delaware. Newark, DE.
+`May 2019 — Present` **Founder.** Delaware Games Collective. Newark, DE.
+
+`Sep 2018 — October 2019` **VIP:VR Project Manager.** University of Delaware. Newark, DE.
 
 * Project goals include exploring the applications of virtual reality in commercial and educational projects.
 * Led a team of undergraduates in designing and creating a cooperative virtual reality gameplay experience.
