@@ -9,7 +9,7 @@ description: My CV!
 
 Spatial Games Researcher.
 
- 302.648.2117 \| [alinac@udel.edu](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/2022bba30520ae159c38e17b2361bdefa4bb71d4/alinac@udel.edu) \| [alinac.me](http://alinac.me)
+ [alinac@udel.edu](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/2022bba30520ae159c38e17b2361bdefa4bb71d4/alinac@udel.edu) \| [alinac.me](http://alinac.me)
 
 ## Research Interests
 
