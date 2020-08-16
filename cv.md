@@ -7,33 +7,37 @@ description: My CV!
 
 # Alina Christenbury
 
-Spatial Games Researcher.
+Spatial Games Researcher. Game Designer. Founder.
 
- [alinac@udel.edu](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/2022bba30520ae159c38e17b2361bdefa4bb71d4/alinac@udel.edu) \| [alinac.me](http://alinac.me)
+ [alinac@udel.edu](mailto:alinac@udel.edu) \| [alinac.me](http://alinac.me)
 
 ## Research Interests
 
-Games, collaborative experiences, XR technology, human-computer interaction, machine learning applications in games, generative art, procedural generation
+Games, collaborative experiences, artificial intelligence, spatial technology, human-computer interaction, generative art, procedural generation
 
 ## Education
 
 `June 2019 — Present` **Computer Science PhD.** University of Delaware, Newark, DE.
 
-`Aug 2015 — May 2019` **Computer Science B.S.** University of Delaware, Newark, DE. 3.28/4.0.
+**Computer Science B.S.** University of Delaware, Newark, DE. 3.28/4.0.
 
 ## Awards
 
-`May 2019` [Unidel Distinguished Graduate Scholars Program](https://grad.udel.edu/fees-and-funding/unidel-grad-scholars-award/)
+`May 2019` [Unidel Distinguished Graduate Scholars Program](https://grad.udel.edu/fees-and-funding/unidel-grad-scholars-award/).
 
-`May 2019` Lauri Pfeffer Shinn Memorial Award
+`May 2019` Lauri Pfeffer Shinn Memorial Award.
 
-`Dec 2018` [GLITCH's Power Leveling Program](https://glitch.mn/powerleveling/)
+`Dec 2018` [GLITCH's Power Leveling Program](https://glitch.mn/powerleveling/).
 
-`Fall 2018, Spring 2018, Spring 2016, Fall 2015` Dean's List
+`Fall 2018, Spring 2018, Spring 2016, Fall 2015` Dean's List.
 
 ## Experience
 
+`January 2020 - Present` **Founder.** Ivy Interactive. Newark, DE.
+
 `May 2019 — Present` **Founder.** Delaware Games Collective. Newark, DE.
+
+`September 2018 - June 2020` **Research Fellow.** University of Delaware Human-Computer Interaction Lab. Newark, DE.
 
 `Sep 2018 — October 2019` **VIP:VR Project Manager.** University of Delaware. Newark, DE.
 
@@ -105,45 +109,46 @@ Unity
 
 ### Programming Languages
 
-C\#, Java, C/C++, Python, LaTeX
+Python, C\#, Java, C/C++, LaTeX.
 
 ### Web
 
-HTML, CSS, SCSS, Javascript, React, Markdown
+HTML, CSS, SCSS, Javascript, React, Markdown.
 
 ### IDEs
 
-IntelliJ IDEA, CLion, Webstorm
+Pycharm, IntelliJ IDEA, CLion, Webstorm.
 
 ### Version Control
 
-Git, Sourcetree
+Git, Sourcetree.
 
 ### Film
 
-Final Cut Pro 10, Adobe After Effects
+Final Cut Pro 10, Adobe After Effects.
 
-## Coursework
+## Selected Coursework
 
-`Fall 2018` Human-Computer Interaction
+`Summer 2020` Fast AI (MOOC).
+`Fall 2018` Human-Computer Interaction.
 
 ## Extracurriculars
 
-`May 2018 — Jan 2019` **President.** Association for Computing Machinery at the University of Delaware
+`May 2018 — Jan 2019` **President.** Association for Computing Machinery at the University of Delaware.
 
-* Led weekly coding challenges, coordinated hackathons
+* Led weekly coding challenges, coordinated hackathons.
 
 `May 2017 — May 2018` **Vice President.** Casual Video Game Club at the University of Delaware.
 
-* Concentrated university gaming community onto a single communication platform
+* Concentrated university gaming community onto a single communication platform.
 
 `May 2017 — May 2018` **Treasurer.** Humans vs Zombies at the University of Delaware.
 
-* Managed club inventory and assets acquisition, assisted in planning events
+* Managed club inventory and assets acquisition, assisted in planning events.
 
 **Freelance Web Developer**
 
-* [Axiom Engineering](https://github.com/AlinaWithAFace/alinawithaface.github.io/tree/1a9d04fc69b3ad64623cd7951e076f77f9a0135b/axeng.com)
+* [Axiom Engineering](http://www.axeng.com/)
 * [John's Italian Deli](http://www.johnsitaliandeli.com/)
 
 ## Personal
