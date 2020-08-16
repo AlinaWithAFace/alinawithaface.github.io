@@ -105,15 +105,19 @@ Games, collaborative experiences, artificial intelligence, spatial technology, h
 
 ### Game Engines
 
-Unity
+Unity.
 
 ### Programming Languages
 
-Python, C\#, Java, C/C++, LaTeX.
+Python, C\#, Java, C/C++.
+
+### Markup
+
+Markdown, LaTeX.
 
 ### Web
 
-HTML, CSS, SCSS, Javascript, React, Markdown.
+HTML, CSS, SCSS, Javascript, React.
 
 ### IDEs
 
