@@ -23,6 +23,10 @@ Games, collaborative experiences, artificial intelligence, spatial technology, h
 
 ## Awards
 
+`Nov 2020` [Pitch Project](https://allbutpublished.com/) Finalist.
+
+`Sep 2020` [Oculus Launchpad](https://developer.oculus.com/launch-pad/).
+
 `May 2019` [Unidel Distinguished Graduate Scholars Program](https://grad.udel.edu/fees-and-funding/unidel-grad-scholars-award/).
 
 `May 2019` Lauri Pfeffer Shinn Memorial Award.
@@ -36,6 +40,8 @@ Games, collaborative experiences, artificial intelligence, spatial technology, h
 `January 2020 - Present` **Founder.** Ivy Interactive. Newark, DE.
 
 `May 2019 — Present` **Founder.** Delaware Games Collective. Newark, DE.
+
+`June 2020 - Present` **Research Fellow.** University of Delaware. Newark, DE.
 
 `September 2018 - June 2020` **Research Fellow.** University of Delaware Human-Computer Interaction Lab. Newark, DE.
 
@@ -65,6 +71,12 @@ Games, collaborative experiences, artificial intelligence, spatial technology, h
 * Collected feedback and user testing results on applications
 * Assisted in creating promotional materials, such as videos and presentations
 
+`Misc.` **Freelance Web Developer.**
+
+* [Axiom Engineering](http://www.axeng.com/)
+* [John's Italian Deli](http://www.johnsitaliandeli.com/)
+
+
 ## Hackathons
 
 `Jan 2019` [**Reality Virtually Hackathon**](https://realityvirtuallyhack.com/)**.** MIT Media Lab. Cambridge, MA.
@@ -79,15 +91,9 @@ Games, collaborative experiences, artificial intelligence, spatial technology, h
 
 `Jun 2016` [**Dataworks: Delaware's First Open Data Hackathon**](https://www.hackathon.com/event/dataworks—delawares-first-open-data-hackathon-24040563974)**.** Open Data Delaware. Wilmington DE.
 
-## Research Experience
-
-`Jun 2018 — Aug 2018` **Summer Scholars Undergraduate Research Program.** University of Delaware.
-
 ## Invited Talks
 
 `Jan 2019` [**A Flick of the Wrist: Defining the Next Generation of Human-Computer Interaction**](https://www.ted.com/tedx/events/32155)**.** TEDx Goldey Beacom College Salon
-
-## Panels
 
 `Oct 2018` **Are you interested in Virtual Reality?** Rewriting the Code. Webinar.
 
@@ -138,6 +144,8 @@ Final Cut Pro 10, Adobe After Effects.
 
 ## Extracurriculars
 
+`September 2020 - Present` **Support Player.** Overwatch. Tespa.
+
 `May 2018 — Jan 2019` **President.** Association for Computing Machinery at the University of Delaware.
 
 * Led weekly coding challenges, coordinated hackathons.
@@ -149,11 +157,6 @@ Final Cut Pro 10, Adobe After Effects.
 `May 2017 — May 2018` **Treasurer.** Humans vs Zombies at the University of Delaware.
 
 * Managed club inventory and assets acquisition, assisted in planning events.
-
-**Freelance Web Developer**
-
-* [Axiom Engineering](http://www.axeng.com/)
-* [John's Italian Deli](http://www.johnsitaliandeli.com/)
 
 ## Personal
 
