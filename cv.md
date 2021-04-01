@@ -21,6 +21,8 @@ Games, collaborative experiences, artificial intelligence, spatial technology, h
 
 **Computer Science B.S.** University of Delaware, Newark, DE. 3.28/4.0.
 
+
+
 ## Awards
 
 `Nov 2020` [Pitch Project](https://allbutpublished.com/) Finalist.
@@ -161,4 +163,3 @@ Final Cut Pro 10, Adobe After Effects.
 ## Personal
 
 Twitter: [@AlinaWithAFace](https://twitter.com/AlinaWithAFace)
-
