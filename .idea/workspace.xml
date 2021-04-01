@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="portfolio draft, updated bio">
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-04-01-welcome-to-jekyll.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md.rej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/CV.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/PORTFOLIO.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>oswald</find>
+      <find>font</find>
+      <find>hero</find>
+      <find>text-transform</find>
+      <find>title</find>
+      <find>post</find>
+      <find>}{</find>
+      <find>\cvitem{</find>
+      <find>\cventry{</find>
+      <find>--</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>`</replace>
+      <replace>—</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alina Christenbury &lt;alina.christenbury@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="7e5044ff-97e0-4d07-a84a-4d0832da5f4b" />
+  <component name="ProjectId" id="1mnbos00JhEysQEW16lBhlspgnY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\assets\img" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_drafts" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_things-ive-made" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_layouts" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\assets" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\css" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.scratch_3">
+    <configuration name="main" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <pdf-viewer>NONE</pdf-viewer>
+        <viewer-command />
+        <compiler-arguments />
+        <envs />
+        <main-file />
+        <output-path />
+        <auxil-path />
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <latex-distribution>TEXLIVE</latex-distribution>
+        <has-been-run>false</has-been-run>
+        <bib-run-config>[]</bib-run-config>
+        <makeindex-run-config>[]</makeindex-run-config>
+      </texify>
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="alinawithaface.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\alina\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+      <option name="PARAMETERS" value="7 11 5 15 3 2 -2 2 1 5 -6" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="LaTeX.main" />
+      <item itemvalue="Python.scratch_3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch_3" />
+        <item itemvalue="LaTeX.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="" />
+      <created>1536672933339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536672933339</updated>
+      <workItem from="1536672935589" duration="1599000" />
+      <workItem from="1536674696760" duration="1044000" />
+      <workItem from="1536675852125" duration="132000" />
+      <workItem from="1536675998927" duration="869000" />
+      <workItem from="1536690869708" duration="693000" />
+      <workItem from="1536697552222" duration="640000" />
+      <workItem from="1537294607611" duration="675000" />
+      <workItem from="1537499633599" duration="736000" />
+      <workItem from="1537552928168" duration="11000" />
+      <workItem from="1538604130234" duration="623000" />
+      <workItem from="1540336955366" duration="3550000" />
+      <workItem from="1544597777417" duration="1148000" />
+      <workItem from="1547687941886" duration="683000" />
+      <workItem from="1548730664107" duration="4293000" />
+      <workItem from="1548737681660" duration="2021000" />
+      <workItem from="1548739769034" duration="377000" />
+      <workItem from="1549047035892" duration="1513000" />
+      <workItem from="1549049213339" duration="716000" />
+      <workItem from="1549211776421" duration="880000" />
+      <workItem from="1549231200357" duration="2847000" />
+      <workItem from="1555002662443" duration="547000" />
+      <workItem from="1555349758835" duration="580000" />
+      <workItem from="1555948805326" duration="1780000" />
+      <workItem from="1555973765510" duration="30000" />
+      <workItem from="1556840551075" duration="1767000" />
+      <workItem from="1556907212520" duration="1740000" />
+      <workItem from="1557098218487" duration="336000" />
+      <workItem from="1557100493219" duration="211000" />
+      <workItem from="1557110346979" duration="3352000" />
+      <workItem from="1557174147714" duration="632000" />
+      <workItem from="1557258549747" duration="8000" />
+      <workItem from="1558882099535" duration="379000" />
+      <workItem from="1564101022005" duration="2326000" />
+      <workItem from="1568562526382" duration="302000" />
+      <workItem from="1568563109699" duration="706000" />
+      <workItem from="1610132481775" duration="4166000" />
+      <workItem from="1610219857249" duration="54000" />
+      <workItem from="1617150894932" duration="1160000" />
+      <workItem from="1617318828033" duration="236000" />
+      <workItem from="1617319079384" duration="1725000" />
+    </task>
+    <task id="LOCAL-00038" summary="fixed image maybe">
+      <created>1550261844789</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1550261844790</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added hero">
+      <created>1550262065040</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1550262065040</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fixed about">
+      <created>1550262181308</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1550262181308</updated>
+    </task>
+    <task id="LOCAL-00041" summary="added a real blog post">
+      <created>1550264917682</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1550264917682</updated>
+    </task>
+    <task id="LOCAL-00042" summary="removed the things">
+      <created>1550265295031</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1550265295031</updated>
+    </task>
+    <task id="LOCAL-00043" summary="removed the things">
+      <created>1550265401869</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1550265401869</updated>
+    </task>
+    <task id="LOCAL-00044" summary="index">
+      <created>1550265494268</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1550265494268</updated>
+    </task>
+    <task id="LOCAL-00045" summary="index">
+      <created>1550266163657</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1550266163657</updated>
+    </task>
+    <task id="LOCAL-00046" summary="added a super old essay">
+      <created>1550267398904</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1550267398904</updated>
+    </task>
+    <task id="LOCAL-00047" summary="added a super old essay">
+      <created>1550267531219</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1550267531219</updated>
+    </task>
+    <task id="LOCAL-00048" summary="landing">
+      <created>1550271590868</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1550271590868</updated>
+    </task>
+    <task id="LOCAL-00049" summary="unlanding">
+      <created>1550271716698</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1550271716698</updated>
+    </task>
+    <task id="LOCAL-00050" summary="we're live, ish, again">
+      <created>1550329449520</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1550329449520</updated>
+    </task>
+    <task id="LOCAL-00051" summary="drafts, hurray">
+      <created>1550330187289</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1550330187289</updated>
+    </task>
+    <task id="LOCAL-00052" summary="added an article from a million years ago">
+      <created>1550330797007</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1550330797007</updated>
+    </task>
+    <task id="LOCAL-00053" summary="typos my b">
+      <created>1550330975876</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1550330975876</updated>
+    </task>
+    <task id="LOCAL-00054" summary="culled the weak">
+      <created>1550331951323</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1550331951323</updated>
+    </task>
+    <task id="LOCAL-00055" summary="added a million drafts i'll flesh out maybe 10% of">
+      <created>1551814801453</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1551814801454</updated>
+    </task>
+    <task id="LOCAL-00056" summary="published a smol boi">
+      <created>1551832755596</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1551832755597</updated>
+    </task>
+    <task id="LOCAL-00057" summary="spaaaaaaaaaaaace">
+      <created>1551832896978</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1551832896979</updated>
+    </task>
+    <task id="LOCAL-00058" summary="words">
+      <created>1551833026721</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1551833026721</updated>
+    </task>
+    <task id="LOCAL-00059" summary="added preview gif">
+      <created>1551833798280</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1551833798280</updated>
+    </task>
+    <task id="LOCAL-00060" summary="burned title">
+      <created>1555003873949</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1555003873949</updated>
+    </task>
+    <task id="LOCAL-00061" summary="the eagle had landed">
+      <created>1555004043683</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1555004043683</updated>
+    </task>
+    <task id="LOCAL-00062" summary="added like and subscribe button">
+      <created>1555949028018</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1555949028019</updated>
+    </task>
+    <task id="LOCAL-00063" summary="added mailing list link">
+      <created>1555949506042</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1555949506042</updated>
+    </task>
+    <task id="LOCAL-00064" summary="maaaail">
+      <created>1555949847101</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1555949847101</updated>
+    </task>
+    <task id="LOCAL-00065" summary="swapping to tinyletter because i can">
+      <created>1556840800635</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1556840800635</updated>
+    </task>
+    <task id="LOCAL-00066" summary="embed?">
+      <created>1556841685831</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1556841685831</updated>
+    </task>
+    <task id="LOCAL-00067" summary="MAJOR AWARDS">
+      <created>1556908921099</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1556908921100</updated>
+    </task>
+    <task id="LOCAL-00068" summary="give me money for food">
+      <created>1557098287653</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1557098287653</updated>
+    </task>
+    <task id="LOCAL-00069" summary="support page">
+      <created>1557098452213</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1557098452213</updated>
+    </task>
+    <task id="LOCAL-00070" summary="favicons">
+      <created>1557100533450</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1557100533451</updated>
+    </task>
+    <task id="LOCAL-00071" summary="presto chango phraso">
+      <created>1557110855661</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1557110855662</updated>
+    </task>
+    <task id="LOCAL-00072" summary="projects, maybe, if it worked">
+      <created>1557113964966</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1557113964966</updated>
+    </task>
+    <task id="LOCAL-00073" summary="projects but for real">
+      <created>1557114196636</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1557114196636</updated>
+    </task>
+    <task id="LOCAL-00074" summary="date">
+      <created>1557114288961</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1557114288961</updated>
+    </task>
+    <task id="LOCAL-00075" summary="rip">
+      <created>1557114840113</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1557114840113</updated>
+    </task>
+    <task id="LOCAL-00076" summary="added DGC, several drafts">
+      <created>1558882262077</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1558882262078</updated>
+    </task>
+    <task id="LOCAL-00077" summary="unfucked gitbook doing its best">
+      <created>1564101379244</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1564101379245</updated>
+    </task>
+    <task id="LOCAL-00078" summary="unfucked gitbook doing its best">
+      <created>1564101893941</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1564101893941</updated>
+    </task>
+    <task id="LOCAL-00079" summary="mr postman give me the post, give me the post that i love the most">
+      <created>1564102271780</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1564102271780</updated>
+    </task>
+    <task id="LOCAL-00080" summary="rip paypal">
+      <created>1564102378157</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1564102378157</updated>
+    </task>
+    <task id="LOCAL-00081" summary="excerpt to description">
+      <created>1564102591630</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1564102591630</updated>
+    </task>
+    <task id="LOCAL-00082" summary="moved assets back because gitbook isn't quite working out here">
+      <created>1564103112214</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1564103112214</updated>
+    </task>
+    <task id="LOCAL-00083" summary="blog redirect because reasons">
+      <created>1572149675221</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1572149675222</updated>
+    </task>
+    <task id="LOCAL-00084" summary="cv bby">
+      <created>1572385084399</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1572385084401</updated>
+    </task>
+    <task id="LOCAL-00085" summary="cv bby">
+      <created>1572386834944</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1572386834944</updated>
+    </task>
+    <task id="LOCAL-00086" summary="portfolio draft, updated bio">
+      <created>1617319815783</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1617319815783</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="burned title" />
+    <MESSAGE value="the eagle had landed" />
+    <MESSAGE value="added like and subscribe button" />
+    <MESSAGE value="added mailing list link" />
+    <MESSAGE value="maaaail" />
+    <MESSAGE value="swapping to tinyletter because i can" />
+    <MESSAGE value="embed?" />
+    <MESSAGE value="MAJOR AWARDS" />
+    <MESSAGE value="give me money for food" />
+    <MESSAGE value="support page" />
+    <MESSAGE value="favicons" />
+    <MESSAGE value="presto chango phraso" />
+    <MESSAGE value="projects, maybe, if it worked" />
+    <MESSAGE value="projects but for real" />
+    <MESSAGE value="date" />
+    <MESSAGE value="rip" />
+    <MESSAGE value="added DGC, several drafts" />
+    <MESSAGE value="unfucked gitbook doing its best" />
+    <MESSAGE value="mr postman give me the post, give me the post that i love the most" />
+    <MESSAGE value="rip paypal" />
+    <MESSAGE value="excerpt to description" />
+    <MESSAGE value="moved assets back because gitbook isn't quite working out here" />
+    <MESSAGE value="blog redirect because reasons" />
+    <MESSAGE value="cv bby" />
+    <MESSAGE value="portfolio draft, updated bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio draft, updated bio" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610132489110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610132489110" />
+  </component>
+</project>
