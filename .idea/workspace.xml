@@ -19,19 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="portfolio draft, updated bio">
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-04-01-welcome-to-jekyll.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.md.rej" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+    <list default="true" id="32c90afa-8597-4a07-bd0f-396db4e698a6" name="Default Changelist" comment="reinitialize jekyll website">
+      <change afterPath="$PROJECT_DIR$/_layouts/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/alinawithaface.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alinawithaface.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PORTFOLIO.md" beforeDir="false" afterPath="$PROJECT_DIR$/PORTFOLIO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/CV.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/PORTFOLIO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.latex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/support.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +70,11 @@
         <option value="Alina Christenbury &lt;alina.christenbury@gmail.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="7e5044ff-97e0-4d07-a84a-4d0832da5f4b" />
@@ -85,24 +91,27 @@
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alina\Git\alinawithaface.github.io\assets\img" />
-      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
-      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_drafts" />
-      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_things-ive-made" />
-      <recent name="C:\Users\alina\Git\alinawithaface.github.io\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alina\Git\alinawithaface.github.io\_layouts" />
       <recent name="C:\Users\alina\Git\alinawithaface.github.io" />
       <recent name="C:\Users\alina\Git\alinawithaface.github.io\assets" />
       <recent name="C:\Users\alina\Git\alinawithaface.github.io\css" />
       <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_PROJECTS\alinawithaface.github.io\articles" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\assets\img" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_posts" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_drafts" />
+      <recent name="C:\Users\alina\Git\alinawithaface.github.io\_things-ive-made" />
     </key>
   </component>
   <component name="RunManager" selected="Python.scratch_3">
@@ -215,14 +224,7 @@
       <workItem from="1610219857249" duration="54000" />
       <workItem from="1617150894932" duration="1160000" />
       <workItem from="1617318828033" duration="236000" />
-      <workItem from="1617319079384" duration="1725000" />
-    </task>
-    <task id="LOCAL-00038" summary="fixed image maybe">
-      <created>1550261844789</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1550261844790</updated>
+      <workItem from="1617319079384" duration="4524000" />
     </task>
     <task id="LOCAL-00039" summary="added hero">
       <created>1550262065040</created>
@@ -560,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617319815783</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="reinitialize jekyll website">
+      <created>1617321003628</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1617321003628</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -598,7 +607,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="burned title" />
     <MESSAGE value="the eagle had landed" />
     <MESSAGE value="added like and subscribe button" />
     <MESSAGE value="added mailing list link" />
@@ -623,12 +631,7 @@
     <MESSAGE value="blog redirect because reasons" />
     <MESSAGE value="cv bby" />
     <MESSAGE value="portfolio draft, updated bio" />
-    <option name="LAST_COMMIT_MESSAGE" value="portfolio draft, updated bio" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610132489110">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610132489110" />
+    <MESSAGE value="reinitialize jekyll website" />
+    <option name="LAST_COMMIT_MESSAGE" value="reinitialize jekyll website" />
   </component>
 </project>

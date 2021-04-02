@@ -1,9 +1,13 @@
 ---
-layout: portfolio
+layout: default
 title: Alina Christenbury's portfolio
 permalink: /portfolio/
 description: My portfolio!
 ---
+
+Coupricide
+**game, tabletop**
+Roles: Artist, Producer
 
 Erupcio
 **game, tabletop**
